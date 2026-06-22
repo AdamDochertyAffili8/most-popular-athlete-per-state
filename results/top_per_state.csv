@@ -170,7 +170,7 @@ year,state,athlete,article_count,sport,rank
 2004,Arizona,"Ward, Charlie",2,Basketball,1
 2004,California,"Bonds, Barry",56,Baseball,1
 2004,Colorado,"Bryant, Kobe",43,Basketball,1
-2004,Connecticut,"Holtz, Jeff",3,Tennis,1
+2004,Connecticut,"Holtz, Jeff",3,Basketball,1
 2004,Connecticut,"SIENKO, CHRIS",3,Basketball,1
 2004,District of Columbia,"Gibbs, Joe",11,Football,1
 2004,Florida,"O'Neal, Shaquille",8,Basketball,1
@@ -356,7 +356,7 @@ year,state,athlete,article_count,sport,rank
 2009,Missouri,"Kehl, Bryan",2,Football,1
 2009,Missouri,"Manning, Eli",2,Football,1
 2009,Missouri,"Smith, Steve",2,Football,1
-2009,New Jersey,"Prokhorov, Mikhail D",10,Basketball,1
+2009,New Jersey,"Harris, Devin",9,Basketball,1
 2009,New York,"Rodriguez, Alex",134,Baseball,1
 2009,North Carolina,"Brown, Larry",3,Basketball,1
 2009,Ohio,"James, LeBron",38,Basketball,1
@@ -375,7 +375,6 @@ year,state,athlete,article_count,sport,rank
 2010,Arizona,"Stoudemire, Amare",10,Basketball,1
 2010,California,"Bryant, Kobe",32,Basketball,1
 2010,Colorado,"ANTHONY, CARMELO",11,Basketball,1
-2010,Connecticut,"McMahon, Linda E",2,Boxing/MMA,1
 2010,District of Columbia,"ARENAS, GILBERT",16,Basketball,1
 2010,Florida,"James, LeBron",44,Basketball,1
 2010,Georgia,"Cox, Bobby",5,Baseball,1
@@ -389,7 +388,7 @@ year,state,athlete,article_count,sport,rank
 2010,Missouri,"Jones, Thomas",2,Football,1
 2010,Missouri,"Posada, Jorge",2,Baseball,1
 2010,Missouri,"Rodriguez, Alex",2,Baseball,1
-2010,New Jersey,"Prokhorov, Mikhail D",29,Basketball,1
+2010,New Jersey,"James, LeBron",18,Basketball,1
 2010,New York,"Rodriguez, Alex",87,Baseball,1
 2010,North Carolina,"Jordan, Michael",8,Basketball,1
 2010,Ohio,"James, LeBron",55,Basketball,1
@@ -467,7 +466,7 @@ year,state,athlete,article_count,sport,rank
 2012,Minnesota,"Peterson, Adrian",5,Football,1
 2012,Missouri,"Belcher, Jovan",6,Football,1
 2012,Missouri,"Crennel, Romeo",6,Football,1
-2012,Nebraska,"Coughlin, Natalie",3,Track & Field,1
+2012,Nebraska,"Coughlin, Natalie",3,Olympics,1
 2012,Nebraska,"Lochte, Ryan",3,Track & Field,1
 2012,Nebraska,"Phelps, Michael",3,Track & Field,1
 2012,Nevada,"Pacquiao, Manny",2,Boxing/MMA,1
@@ -498,7 +497,7 @@ year,state,athlete,article_count,sport,rank
 2013,Indiana,"ANTHONY, CARMELO",24,Basketball,1
 2013,Indiana,"Hibbert, Roy",24,Basketball,1
 2013,Kentucky,"McGaughey, Shug",2,Horse Racing,1
-2013,Louisiana,"Goodell, Roger",6,Football,1
+2013,Louisiana,"Dykes, Brett Michael",5,Football,1
 2013,Maryland,"Flacco, Joe",21,Football,1
 2013,Massachusetts,"Kepner, Tyler",36,Baseball,1
 2013,Michigan,"Cabrera, Miguel",16,Baseball,1
@@ -578,7 +577,6 @@ year,state,athlete,article_count,sport,rank
 2015,Pennsylvania,"Kepner, Tyler",9,Baseball,1
 2015,Tennessee,"Curry, Stephen",8,Basketball,1
 2015,Texas,"Witz, Billy",19,Baseball,1
-2015,Virginia,"Trump, Donald J",2,Golf,1
 2015,Washington,"Carroll, Pete",16,Football,1
 2015,Washington,"Wilson, Russell",16,Football,1
 2015,Wisconsin,"Rodgers, Aaron",11,Football,1
@@ -605,7 +603,6 @@ year,state,athlete,article_count,sport,rank
 2016,Minnesota,"Borzi, Pat",13,Baseball,1
 2016,Missouri,"Kepner, Tyler",11,Baseball,1
 2016,Nevada,"Davis, Mark (1954/55- )",3,Football,1
-2016,New Jersey,"Trump, Donald J",2,Golf,1
 2016,New York,"Witz, Billy",152,Baseball,1
 2016,North Carolina,"Newton, Cameron J",20,Football,1
 2016,Ohio,"James, LeBron",49,Basketball,1
@@ -638,7 +635,6 @@ year,state,athlete,article_count,sport,rank
 2017,Minnesota,"Santana, Ervin",2,Baseball,1
 2017,Missouri,"Moustakas, Mike",3,Baseball,1
 2017,Nevada,"McGregor, Conor",3,Boxing/MMA,1
-2017,New Jersey,"Trump, Donald J",3,Golf,1
 2017,New York,"ANTHONY, CARMELO",56,Basketball,1
 2017,North Carolina,"Newton, Cameron J",4,Football,1
 2017,Ohio,"James, LeBron",26,Basketball,1
@@ -650,7 +646,6 @@ year,state,athlete,article_count,sport,rank
 2017,Tennessee,"Rinne, Pekka",2,Hockey,1
 2017,Texas,"Elliott, Ezekiel",12,Football,1
 2017,Texas,"Jones, Jerry",12,Football,1
-2017,Virginia,"Trump, Donald J",2,Golf,1
 2017,Washington,"Sherman, Richard",3,Football,1
 2017,Wisconsin,"Rodgers, Aaron",10,Football,1
 2018,Arizona,"Taurasi, Diana",3,Basketball,1
@@ -732,7 +727,6 @@ year,state,athlete,article_count,sport,rank
 2020,Illinois,"Jordan, Michael",10,Basketball,1
 2020,Indiana,"Brady, Tom",4,Football,1
 2020,Indiana,"Rivers, Philip",4,Football,1
-2020,Kansas,"Trump, Donald J",2,Football,1
 2020,Louisiana,"Brees, Drew",9,Football,1
 2020,Maryland,"Jackson, Lamar",19,Football,1
 2020,Massachusetts,"Brady, Tom",17,Football,1
@@ -748,7 +742,6 @@ year,state,athlete,article_count,sport,rank
 2020,Nevada,"Newton, Cameron J",5,Football,1
 2020,Nevada,"Wilson, A'ja",5,Basketball,1
 2020,New Jersey,"Murphy, Philip D",2,Golf,1
-2020,New Jersey,"Trump, Donald J",2,Golf,1
 2020,New York,"Boone, Aaron",19,Baseball,1
 2020,North Carolina,"Newton, Cameron J",5,Football,1
 2020,Ohio,"Burrow, Joe",10,Football,1
@@ -847,7 +840,7 @@ year,state,athlete,article_count,sport,rank
 2022,Oklahoma,"McIlroy, Rory",2,Golf,1
 2022,Oklahoma,"Spieth, Jordan",2,Golf,1
 2022,Oklahoma,"Woods, Tiger",2,Golf,1
-2022,Oregon,"Knight, Philip H",2,Track & Field,1
+2022,Oregon,"Knight, Philip H",2,Basketball,1
 2022,Oregon,"Mickelson, Phil",2,Golf,1
 2022,Pennsylvania,"Harper, Bryce",18,Baseball,1
 2022,Tennessee,"Morant, Ja",9,Basketball,1
@@ -892,9 +885,7 @@ year,state,athlete,article_count,sport,rank
 2023,Wisconsin,"Rodgers, Aaron",5,Football,1
 2024,Alabama,"Mays, Willie",4,Baseball,1
 2024,California,"Ohtani, Shohei",12,Baseball,1
-2024,Connecticut,"McMahon, Vince",2,Boxing/MMA,1
 2024,Florida,"Hill, Tyreek",2,Football,1
-2024,Florida,"Trump, Donald J",2,Golf,1
 2024,Indiana,"Clark, Caitlin",4,Basketball,1
 2024,Kansas,"Robinson, Jackie",4,Baseball,1
 2024,Massachusetts,"Belichick, Bill",5,Football,1
@@ -902,28 +893,29 @@ year,state,athlete,article_count,sport,rank
 2024,Missouri,"Swift, Taylor",16,Football,1
 2024,Nevada,"Swift, Taylor",5,Football,1
 2024,New Jersey,"DeVito, Tommy",2,Football,1
-2024,New York,"Trump, Donald J",6,Baseball,1
+2024,New York,"Adams, Eric L",3,Track & Field,1
+2024,New York,"Clark, Caitlin",3,Basketball,1
+2024,New York,"Cohen, Steven A",3,Baseball,1
+2024,New York,"DeVito, Tommy",3,Football,1
+2024,New York,"Harris, Kamala D",3,Baseball,1
+2024,New York,"Ionescu, Sabrina",3,Basketball,1
+2024,New York,"Rodgers, Aaron",3,Football,1
 2024,Pennsylvania,"Parker, Cherelle",2,Basketball,1
-2024,Pennsylvania,"Trump, Donald J",2,Football,1
 2024,Texas,"Tyson, Mike",3,Boxing/MMA,1
-2025,California,"Trump, Donald J",8,Baseball,1
+2025,California,"Ohtani, Shohei",5,Baseball,1
 2025,District of Columbia,"Naumov, Vadim",4,Other,1
-2025,District of Columbia,"Trump, Donald J",4,Football,1
 2025,Florida,"Rozier, Terry",2,Basketball,1
-2025,Florida,"Trump, Donald J",2,Golf,1
 2025,Georgia,"Rose, Justin",2,Golf,1
 2025,Illinois,Leo XIV,3,Baseball,1
 2025,Indiana,"Clark, Caitlin",3,Basketball,1
-2025,Louisiana,"Trump, Donald J",3,Football,1
 2025,Massachusetts,"Kerrigan, Nancy",3,Olympics,1
 2025,Missouri,"Swift, Taylor",6,Football,1
 2025,Nevada,"Wilson, A'ja",2,Basketball,1
-2025,New Jersey,"Murphy, Philip D",2,Track & Field,1
-2025,New York,"Trump, Donald J",5,Baseball,1
+2025,New Jersey,"Murphy, Philip D",2,Soccer,1
+2025,New York,"Lee, Spike",4,Basketball,1
 2025,North Carolina,"Rozier, Terry",3,Basketball,1
 2025,Ohio,"Burrow, Joe",2,Football,1
 2025,Ohio,"Clase, Emmanuel",2,Baseball,1
-2025,Ohio,"Trump, Donald J",2,Football,1
 2025,Oklahoma,"Caruso, Alex",2,Basketball,1
 2025,Oklahoma,"Gilgeous-Alexander, Shai",2,Basketball,1
 2025,Oklahoma,"James, LeBron",2,Basketball,1
@@ -935,15 +927,13 @@ year,state,athlete,article_count,sport,rank
 2025,Pennsylvania,"Swift, Taylor",2,Football,1
 2025,Texas,"Jones, Jerry",3,Football,1
 2026,California,"Liu, Alysa",2,Other,1
-2026,District of Columbia,"Trump, Donald J",2,Golf,1
-2026,Florida,"Trump, Donald J",2,Golf,1
 2026,Illinois,"Jordan, Michael",2,Basketball,1
 2026,Illinois,"Pippen, Scottie",2,Basketball,1
 2026,Massachusetts,"Darnold, Sam",2,Football,1
 2026,Massachusetts,"Russini, Dianna",2,Football,1
 2026,Massachusetts,"Vrabel, Mike",2,Football,1
 2026,New Jersey,"Sherrill, Mikie",2,Soccer,1
-2026,New York,"Mamdani, Zohran",3,Soccer,1
+2026,New York,"Mamdani, Zohran",3,Baseball,1
 2026,Pennsylvania,"Frazier, Joe",2,Boxing/MMA,1
 2026,Pennsylvania,"Schomberg, A Thomas",2,Boxing/MMA,1
 2026,Washington,"Darnold, Sam",2,Football,1

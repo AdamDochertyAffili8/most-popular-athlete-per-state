@@ -7,6 +7,30 @@ Lookup tables and helpers for the NYT athlete analysis.
 
 import re
 
+# People who regularly appear in sports articles but are not athletes.
+# NYT persons tags use "Last, First" format. Extend this set as new cases emerge.
+NON_ATHLETES: set[str] = {
+    # Politicians
+    "Trump, Donald J", "Trump, Donald J.",
+    "Obama, Barack", "Biden, Joseph R Jr",
+    "Pence, Mike", "Pataki, George E",
+    # Team owners / executives
+    "Prokhorov, Mikhail D",
+    "Steinbrenner, George M 3d",
+    "McMahon, Linda E", "McMahon, Vince",
+    "Kroenke, Stan",
+    "Cuban, Mark",
+    "Sterling, Donald T",
+    # Sports commissioners / officials
+    "Stern, David", "Silver, Adam",
+    "Goodell, Roger",
+    "Manfred, Robert D Jr",
+    "Bettman, Gary B",
+    # Coaches / managers (comment out any you want included)
+    # Journalists / media figures commonly tagged in sports articles
+    "Madoff, Bernard L",
+}
+
 SPORTS_SUBJECTS = {
     # Team sports
     "Baseball", "Basketball", "Football", "Soccer", "Hockey", "Ice Hockey",

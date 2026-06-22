@@ -19,6 +19,7 @@ from pathlib import Path
 import pandas as pd
 
 from src.states import (
+    NON_ATHLETES,
     SPORT_CATEGORIES,
     SPORTS_SUBJECTS,
     clean_person_name,
@@ -55,7 +56,9 @@ def explode_persons(df_sports: pd.DataFrame) -> pd.DataFrame:
         .dropna(subset=["person"])
     )
     out["person"] = out["person"].apply(clean_person_name)
-    return out[out["person"] != ""].reset_index(drop=True)
+    out = out[out["person"] != ""]
+    out = out[~out["person"].isin(NON_ATHLETES)]
+    return out.reset_index(drop=True)
 
 
 def explode_glocation_states(df_sports: pd.DataFrame) -> pd.DataFrame:
