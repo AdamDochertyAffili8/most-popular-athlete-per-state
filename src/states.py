@@ -218,6 +218,44 @@ _CITIES: dict[str, str] = {
     "washington": "District of Columbia",
 }
 
+# Maps NYT subject tags to broad sport categories used for map colouring
+SPORT_CATEGORIES: dict[str, str] = {
+    # Football
+    "Football": "Football", "National Football League": "Football",
+    "College Football": "Football", "Super Bowl": "Football",
+    "Draft (Sports)": "Football",
+    # Baseball
+    "Baseball": "Baseball", "Major League Baseball": "Baseball",
+    "World Series": "Baseball", "Little League Baseball": "Baseball",
+    "Softball": "Baseball",
+    # Basketball
+    "Basketball": "Basketball", "National Basketball Association": "Basketball",
+    "College Basketball": "Basketball", "NCAA Basketball Tournament": "Basketball",
+    "NBA Playoffs": "Basketball", "Women's National Basketball Association": "Basketball",
+    # Hockey
+    "Hockey": "Hockey", "Ice Hockey": "Hockey",
+    "National Hockey League": "Hockey", "Stanley Cup": "Hockey",
+    # Soccer
+    "Soccer": "Soccer", "Major League Soccer": "Soccer",
+    # Tennis
+    "Tennis": "Tennis",
+    # Golf
+    "Golf": "Golf",
+    # Boxing / MMA
+    "Boxing": "Boxing/MMA", "Mixed Martial Arts": "Boxing/MMA",
+    "Martial Arts": "Boxing/MMA", "Wrestling": "Boxing/MMA",
+    # Olympics
+    "Olympics": "Olympics", "Olympic Games": "Olympics",
+    "Winter Olympics": "Olympics", "Paralympic Games": "Olympics",
+    # Auto Racing
+    "Auto Racing": "Auto Racing", "Automobile Racing": "Auto Racing",
+    # Horse Racing
+    "Horse Racing": "Horse Racing",
+    # Track & Field / Swimming
+    "Track and Field": "Track & Field", "Swimming": "Track & Field",
+    "Gymnastics": "Track & Field", "Cycling": "Track & Field",
+}
+
 # Sports team name → state (covers pro leagues + notable college programs, 2000-2026)
 TEAM_STATE: dict[str, str] = {
     # ── MLB ──────────────────────────────────────────────────────────────────
@@ -392,6 +430,100 @@ TEAM_STATE: dict[str, str] = {
     "Sporting Kansas City": "Missouri",
     "Kansas City Wizards": "Missouri",
     "St. Louis City SC": "Missouri",
+    # ── NCAA — SEC ───────────────────────────────────────────────────────────
+    "Alabama Crimson Tide": "Alabama",
+    "Auburn Tigers": "Alabama",
+    "Tennessee Volunteers": "Tennessee",
+    "Georgia Bulldogs": "Georgia",
+    "Florida Gators": "Florida",
+    "LSU Tigers": "Louisiana",
+    "Ole Miss Rebels": "Mississippi",
+    "Mississippi State Bulldogs": "Mississippi",
+    "Arkansas Razorbacks": "Arkansas",
+    "South Carolina Gamecocks": "South Carolina",
+    "Kentucky Wildcats": "Kentucky",
+    "Vanderbilt Commodores": "Tennessee",
+    "Missouri Tigers": "Missouri",
+    "Texas A&M Aggies": "Texas",
+    # ── NCAA — Big Ten ────────────────────────────────────────────────────────
+    "Michigan Wolverines": "Michigan",
+    "Ohio State Buckeyes": "Ohio",
+    "Penn State Nittany Lions": "Pennsylvania",
+    "Wisconsin Badgers": "Wisconsin",
+    "Minnesota Golden Gophers": "Minnesota",
+    "Iowa Hawkeyes": "Iowa",
+    "Nebraska Cornhuskers": "Nebraska",
+    "Illinois Fighting Illini": "Illinois",
+    "Indiana Hoosiers": "Indiana",
+    "Purdue Boilermakers": "Indiana",
+    "Northwestern Wildcats": "Illinois",
+    "Michigan State Spartans": "Michigan",
+    "Maryland Terrapins": "Maryland",
+    "Rutgers Scarlet Knights": "New Jersey",
+    # ── NCAA — Big 12 ─────────────────────────────────────────────────────────
+    "Oklahoma Sooners": "Oklahoma",
+    "Oklahoma State Cowboys": "Oklahoma",
+    "Texas Longhorns": "Texas",
+    "Texas Tech Red Raiders": "Texas",
+    "Baylor Bears": "Texas",
+    "TCU Horned Frogs": "Texas",
+    "Kansas Jayhawks": "Kansas",
+    "Kansas State Wildcats": "Kansas",
+    "Iowa State Cyclones": "Iowa",
+    "West Virginia Mountaineers": "West Virginia",
+    # ── NCAA — ACC ────────────────────────────────────────────────────────────
+    "Duke Blue Devils": "North Carolina",
+    "North Carolina Tar Heels": "North Carolina",
+    "NC State Wolfpack": "North Carolina",
+    "Virginia Cavaliers": "Virginia",
+    "Virginia Tech Hokies": "Virginia",
+    "Clemson Tigers": "South Carolina",
+    "Florida State Seminoles": "Florida",
+    "Miami Hurricanes": "Florida",
+    "Boston College Eagles": "Massachusetts",
+    "Notre Dame Fighting Irish": "Indiana",
+    "Syracuse Orange": "New York",
+    "Pittsburgh Panthers": "Pennsylvania",
+    "Louisville Cardinals": "Kentucky",
+    "Wake Forest Demon Deacons": "North Carolina",
+    # ── NCAA — Pac-12 / 10 ───────────────────────────────────────────────────
+    "Oregon Ducks": "Oregon",
+    "Oregon State Beavers": "Oregon",
+    "Washington Huskies": "Washington",
+    "Washington State Cougars": "Washington",
+    "Arizona Wildcats": "Arizona",
+    "Arizona State Sun Devils": "Arizona",
+    "UCLA Bruins": "California",
+    "USC Trojans": "California",
+    "California Golden Bears": "California",
+    "Stanford Cardinal": "California",
+    "Utah Utes": "Utah",
+    "Colorado Buffaloes": "Colorado",
+    # ── NCAA — other notable programs ─────────────────────────────────────────
+    "Connecticut Huskies": "Connecticut",
+    "UConn Huskies": "Connecticut",
+    "Gonzaga Bulldogs": "Washington",
+    "Memphis Tigers": "Tennessee",
+    "Villanova Wildcats": "Pennsylvania",
+    "BYU Cougars": "Utah",
+    "Boise State Broncos": "Idaho",
+    "Army Black Knights": "New York",
+    "Navy Midshipmen": "Maryland",
+    "Air Force Falcons": "Colorado",
+    "New Mexico Lobos": "New Mexico",
+    "Nevada Wolf Pack": "Nevada",
+    "Hawaii Rainbow Warriors": "Hawaii",
+    "Montana Grizzlies": "Montana",
+    "North Dakota State Bison": "North Dakota",
+    "Wyoming Cowboys": "Wyoming",
+    "Creighton Bluejays": "Nebraska",
+    "Rhode Island Rams": "Rhode Island",
+    "Vermont Catamounts": "Vermont",
+    "Delaware Fightin Blue Hens": "Delaware",
+    "Maine Black Bears": "Maine",
+    "New Hampshire Wildcats": "New Hampshire",
+    "South Dakota Coyotes": "South Dakota",
+    "Alaska Nanooks": "Alaska",
     # ── WNBA ─────────────────────────────────────────────────────────────────
     "Atlanta Dream": "Georgia",
     "Chicago Sky": "Illinois",

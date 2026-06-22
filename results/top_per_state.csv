@@ -1,708 +1,949 @@
-year,state,athlete,article_count,rank
-2000,California,"Bryant, Kobe",14,1
-2000,Colorado,"Hampton, Mike",3,1
-2000,Colorado,"Yoshii, Masato",3,1
-2000,Connecticut,"Scinto, Daniel",3,1
-2000,District of Columbia,"Jordan, Michael",15,1
-2000,Florida,"Johnson, Keyshawn",16,1
-2000,Georgia,"Rocker, John",71,1
-2000,Illinois,"Sosa, Sammy",13,1
-2000,Indiana,"Ewing, Patrick",15,1
-2000,Louisiana,"Ditka, Mike",3,1
-2000,Maryland,"Lewis, Ray",14,1
-2000,Massachusetts,"Belichick, Bill",12,1
-2000,Michigan,"Gonzalez, Juan",7,1
-2000,Minnesota,"Smith, Joe",7,1
-2000,Missouri,"Thomas, Derrick",5,1
-2000,New Jersey,"Marbury, Stephon",17,1
-2000,New York,"Clemens, Roger",70,1
-2000,North Carolina,"Phills, Bobby",8,1
-2000,Ohio,"Griffey, Ken Jr",10,1
-2000,Oregon,"Grant, Brian",4,1
-2000,Pennsylvania,"Franco, John",4,1
-2000,Pennsylvania,"Iverson, Allen",4,1
-2000,Tennessee,"McNair, Steve",6,1
-2000,Tennessee,"Warner, Kurt",6,1
-2000,Texas,"Rodriguez, Alex",17,1
-2000,Utah,"Malone, Karl",3,1
-2000,Washington,"Ewing, Patrick",23,1
-2000,Wisconsin,"Groh, Al",4,1
-2001,Alabama,"Ashcroft, John",4,1
-2001,Alabama,"Baxley, Bill",4,1
-2001,Alabama,"CHAMBLISS, ROBERT",4,1
-2001,Alabama,"Clinton, Bill",4,1
-2001,Alabama,"Jones, Doug",4,1
-2001,Alabama,"Lee, Spike",4,1
-2001,Alabama,"Reno, Janet",4,1
-2001,Alabama,"Rudolph, Eric Robert",4,1
-2001,Arizona,"Kidd, Jason",8,1
-2001,California,"Bonds, Barry",33,1
-2001,Colorado,"AGBAYANI, BENNY",4,1
-2001,Colorado,"Valentine, Bobby",4,1
-2001,Connecticut,"Camby, Marcus",10,1
-2001,District of Columbia,"Jordan, Michael",36,1
-2001,Florida,"Mourning, Alonzo",10,1
-2001,Georgia,"Mutombo, Dikembe",8,1
-2001,Illinois,"Wells, David",8,1
-2001,Indiana,"Edwards, Herman",3,1
-2001,Indiana,"Miller, Reggie",3,1
-2001,Kentucky,"Day, Pat",3,1
-2001,Louisiana,"JOHNSON, MAGIC",4,1
-2001,Louisiana,"Olson, Lute",4,1
-2001,Louisiana,"Rodman, Dennis",4,1
-2001,Maryland,"Lewis, Ray",20,1
-2001,Massachusetts,"Cone, David",10,1
-2001,Michigan,"JOHNSON, MAGIC",4,1
-2001,Michigan,"Olson, Lute",4,1
-2001,Michigan,"Rodman, Dennis",4,1
-2001,Minnesota,"Stringer, Korey",27,1
-2001,Missouri,"Clemens, Roger",3,1
-2001,Missouri,"Knoblauch, Chuck",3,1
-2001,Missouri,"Martinez, Tino",3,1
-2001,New Jersey,"Kidd, Jason",20,1
-2001,New York,"Torre, Joe",63,1
-2001,North Carolina,"Clinton, Bill",5,1
-2001,Ohio,"Modell, Art",4,1
-2001,Pennsylvania,"Iverson, Allen",20,1
-2001,Texas,"Rice, Glen",14,1
-2001,Utah,"Malone, Karl",3,1
-2001,Utah,"Rogge, Jacques",3,1
-2001,Utah,"Romney, Mitt",3,1
-2001,Utah,"Welch, Thomas K",3,1
-2001,Virginia,"AGBAYANI, BENNY",4,1
-2001,Virginia,"Valentine, Bobby",4,1
-2001,Virginia,"White, Rick",4,1
-2001,Washington,"Suzuki, Ichiro",17,1
-2001,Wisconsin,"Mutombo, Dikembe",5,1
-2002,Arizona,"Kidd, Jason",3,1
-2002,Arizona,"Marbury, Stephon",3,1
-2002,California,"Bonds, Barry",57,1
-2002,Colorado,"McDyess, Antonio",8,1
-2002,District of Columbia,"Jordan, Michael",18,1
-2002,Florida,"Parcells, Bill",11,1
-2002,Georgia,"Glavine, Tom",14,1
-2002,Illinois,"Baker, Dusty",6,1
-2002,Indiana,"Kidd, Jason",5,1
-2002,Indiana,"Miller, Reggie",5,1
-2002,Massachusetts,"Belichick, Bill",23,1
-2002,Michigan,"Garner, Phil",4,1
-2002,Michigan,"Harrington, Joey",4,1
-2002,Minnesota,"Selig, Bud",10,1
-2002,Missouri,"Knoblauch, Chuck",4,1
-2002,Nevada,"Tyson, Mike",9,1
-2002,New Jersey,"Kidd, Jason",69,1
-2002,New York,"Clemens, Roger",59,1
-2002,North Carolina,"Kidd, Jason",12,1
-2002,Ohio,"Rose, Pete",10,1
-2002,Pennsylvania,"Iverson, Allen",17,1
-2002,Tennessee,"Tyson, Mike",14,1
-2002,Texas,"MING, YAO",9,1
-2002,Utah,"Sale, Jamie",75,1
-2002,Washington,"Piniella, Lou",18,1
-2002,Wisconsin,"Favre, Brett",11,1
-2003,Alabama,"Rudolph, Eric Robert",7,1
-2003,Arizona,"Stoudemire, Amare",3,1
-2003,California,"Bryant, Kobe",53,1
-2003,Colorado,"Bryant, Kobe",36,1
-2003,District of Columbia,"Jordan, Michael",13,1
-2003,Florida,"Gruden, Jon",16,1
-2003,Georgia,"Rudolph, Eric Robert",9,1
-2003,Georgia,"Vick, Michael",9,1
-2003,Illinois,"Sosa, Sammy",14,1
-2003,Indiana,"ARTEST, RON",5,1
-2003,Indiana,"Dungy, Tony",5,1
-2003,Louisiana,"Horn, Joe",3,1
-2003,Louisiana,"Palmer, Jesse",3,1
-2003,Maryland,"Bechler, Steve",19,1
-2003,Massachusetts,"Clemens, Roger",26,1
-2003,Massachusetts,"Martinez, Pedro",26,1
-2003,Michigan,"Clemens, Roger",5,1
-2003,Minnesota,"Sprewell, Latrell",16,1
-2003,Missouri,"Pena, Tony",3,1
-2003,New Jersey,"Kidd, Jason",79,1
-2003,New York,"Clemens, Roger",81,1
-2003,North Carolina,"Rudolph, Eric Robert",6,1
-2003,Ohio,"James, LeBron",29,1
-2003,Oregon,"Cheeks, Maurice",6,1
-2003,Pennsylvania,"McNabb, Donovan",13,1
-2003,Tennessee,"McNair, Steve",5,1
-2003,Texas,"Kidd, Jason",24,1
-2003,Utah,"Welch, Thomas K",13,1
-2003,Washington,"Benitez, Armando",3,1
-2003,Washington,"Boone, Bret",3,1
-2003,Washington,"Nelson, Jeff",3,1
-2003,Wisconsin,"Payton, Gary",5,1
-2004,California,"Bonds, Barry",56,1
-2004,Colorado,"Bryant, Kobe",43,1
-2004,Connecticut,"Holtz, Jeff",3,1
-2004,Connecticut,"SIENKO, CHRIS",3,1
-2004,District of Columbia,"Gibbs, Joe",11,1
-2004,Florida,"O'Neal, Shaquille",8,1
-2004,Georgia,"Manning, Eli",9,1
-2004,Hawaii,"CROSSAN, LAUREN",3,1
-2004,Illinois,"Maddux, Greg",6,1
-2004,Indiana,"ARTEST, RON",28,1
-2004,Maryland,"Carter, Quincy",6,1
-2004,Maryland,"Lewis, Jamal",6,1
-2004,Massachusetts,"Martinez, Pedro",38,1
-2004,Michigan,"ARTEST, RON",26,1
-2004,Minnesota,"Santana, Johan",9,1
-2004,Missouri,"Beltran, Carlos",4,1
-2004,New Jersey,"Christofi, Costas",47,1
-2004,New York,"Rodriguez, Alex",100,1
-2004,North Carolina,"Jackson, Janet",10,1
-2004,North Carolina,"Timberlake, Justin",10,1
-2004,Ohio,"Rose, Pete",22,1
-2004,Oregon,"ABDUR-RAHIM, SHAREEF",3,1
-2004,Pennsylvania,"Owens, Terrell",12,1
-2004,Texas,"Clemens, Roger",38,1
-2004,Washington,"Suzuki, Ichiro",11,1
-2004,Wisconsin,"Favre, Brett",6,1
-2005,Arizona,"Nash, Steve",4,1
-2005,California,"Bonds, Barry",23,1
-2005,District of Columbia,"Bush, George W",6,1
-2005,Florida,"Delgado, Carlos",14,1
-2005,Florida,"O'Neal, Shaquille",14,1
-2005,Georgia,"Smoltz, John",7,1
-2005,Georgia,"Vick, Michael",7,1
-2005,Illinois,"Contreras, Jose",5,1
-2005,Illinois,"Curry, Eddy",5,1
-2005,Illinois,"Guillen, Ozzie",5,1
-2005,Illinois,"Sosa, Sammy",5,1
-2005,Indiana,"Manning, Peyton",16,1
-2005,Louisiana,"Bollinger, Brooks",3,1
-2005,Maryland,"Palmeiro, Rafael",11,1
-2005,Massachusetts,"Belichick, Bill",19,1
-2005,Michigan,"Brown, Larry",22,1
-2005,Minnesota,"McCombs, Red",4,1
-2005,Minnesota,"Moss, Randy",4,1
-2005,Minnesota,"Tice, Mike",4,1
-2005,Missouri,"Barber, Tiki",3,1
-2005,Missouri,"Vermeil, Dick",3,1
-2005,New Hampshire,"Glazer, Malcolm",4,1
-2005,New Jersey,"Carter, Vince",28,1
-2005,New York,"Bloomberg, Michael R",84,1
-2005,North Carolina,"Bollinger, Brooks",3,1
-2005,Ohio,"James, LeBron",9,1
-2005,Pennsylvania,"Owens, Terrell",31,1
-2005,South Carolina,"Brown, Larry",3,1
-2005,South Carolina,"Curry, Eddy",3,1
-2005,Texas,"Clemens, Roger",20,1
-2005,Washington,"ALEXANDER, SHAUN",4,1
-2006,Arizona,"Nash, Steve",11,1
-2006,California,"Bonds, Barry",136,1
-2006,Colorado,"Thomas, Isiah",17,1
-2006,Connecticut,"O'Rourke, James Henry",4,1
-2006,District of Columbia,"Soriano, Alfonso",10,1
-2006,Florida,"Wade, Dwyane",25,1
-2006,Georgia,"Glavine, Tom",7,1
-2006,Illinois,"Curry, Eddy",8,1
-2006,Illinois,"Grossman, Rex",8,1
-2006,Illinois,"Guillen, Ozzie",8,1
-2006,Indiana,"Manning, Peyton",33,1
-2006,Louisiana,"Bush, Reggie",16,1
-2006,Maryland,"Benson, Kris",6,1
-2006,Massachusetts,"Matsuzaka, Daisuke",27,1
-2006,Michigan,"Leyland, Jim",36,1
-2006,Minnesota,"Liriano, Francisco",10,1
-2006,Missouri,"Edwards, Herman",14,1
-2006,New Jersey,"Carter, Vince",74,1
-2006,New York,"Thomas, Isiah",161,1
-2006,North Carolina,"Nifong, Michael B",9,1
-2006,Ohio,"James, LeBron",30,1
-2006,Pennsylvania,"Iverson, Allen",26,1
-2006,Tennessee,"Young, Vince",14,1
-2006,Texas,"Owens, Terrell",35,1
-2006,Washington,"ALEXANDER, SHAUN",10,1
-2006,Wisconsin,"Favre, Brett",7,1
-2007,Arizona,"Nash, Steve",13,1
-2007,California,"Bonds, Barry",77,1
-2007,Colorado,"ANTHONY, CARMELO",6,1
-2007,District of Columbia,"Taylor, Sean",11,1
-2007,Florida,"Wade, Dwyane",12,1
-2007,Georgia,"Vick, Michael",21,1
-2007,Illinois,"Grossman, Rex",10,1
-2007,Indiana,"Manning, Peyton",34,1
-2007,Louisiana,"Bush, Reggie",8,1
-2007,Maryland,"Mussina, Mike",4,1
-2007,Massachusetts,"Belichick, Bill",45,1
-2007,Michigan,"James, LeBron",12,1
-2007,Minnesota,"Santana, Johan",12,1
-2007,Missouri,"Rodriguez, Alex",3,1
-2007,Nevada,"De La Hoya, Oscar",4,1
-2007,New Jersey,"Carter, Vince",71,1
-2007,New York,"Rodriguez, Alex",137,1
-2007,North Carolina,"Nifong, Michael B",5,1
-2007,Ohio,"James, LeBron",29,1
-2007,Oregon,"Randolph, Zach",6,1
-2007,Pennsylvania,"McNabb, Donovan",10,1
-2007,Tennessee,"Jones, Pacman",6,1
-2007,Texas,"Romo, Tony",17,1
-2007,Utah,"Boozer, Carlos Jr",4,1
-2007,Washington,"Durant, Kevin",6,1
-2007,Wisconsin,"Favre, Brett",8,1
-2008,Arizona,"O'Neal, Shaquille",10,1
-2008,California,"Bryant, Kobe",22,1
-2008,Colorado,"Battista, Judy",3,1
-2008,Colorado,"Cutler, Jay",3,1
-2008,District of Columbia,"Schneider, Brian",3,1
-2008,Florida,"Maddon, Joe",11,1
-2008,Georgia,"Glavine, Tom",4,1
-2008,Georgia,"Vick, Michael",4,1
-2008,Illinois,"Guillen, Ozzie",7,1
-2008,Indiana,"Manning, Peyton",7,1
-2008,Louisiana,"Paul, Chris",5,1
-2008,Maryland,"Girardi, Joe",3,1
-2008,Maryland,"Rodriguez, Alex",3,1
-2008,Massachusetts,"Belichick, Bill",37,1
-2008,Michigan,"Thomas, Isiah",4,1
-2008,Minnesota,"Santana, Johan",8,1
-2008,New Jersey,"Kidd, Jason",18,1
-2008,New York,"Favre, Brett",76,1
-2008,North Carolina,"Brown, Larry",3,1
-2008,Ohio,"James, LeBron",14,1
-2008,Oregon,"Oden, Greg",3,1
-2008,Pennsylvania,"Rollins, Jimmy",8,1
-2008,Tennessee,"Randolph, Zach",3,1
-2008,Tennessee,"Young, Vince",3,1
-2008,Texas,"Romo, Tony",21,1
-2008,Washington,"Favre, Brett",5,1
-2008,Wisconsin,"Favre, Brett",38,1
-2009,Arizona,"O'Neal, Shaquille",5,1
-2009,California,"Bryant, Kobe",30,1
-2009,Colorado,"ANTHONY, CARMELO",9,1
-2009,District of Columbia,"Manuel, Jerry",5,1
-2009,Florida,"Howard, Dwight",27,1
-2009,Georgia,"Manuel, Jerry",6,1
-2009,Illinois,"Rose, Derrick",7,1
-2009,Indiana,"Manning, Peyton",7,1
-2009,Louisiana,"Brees, Drew",8,1
-2009,Maryland,"Flacco, Joe",7,1
-2009,Massachusetts,"Ortiz, David",23,1
-2009,Michigan,"Malkin, Evgeni",8,1
-2009,Michigan,"Zetterberg, Henrik",8,1
-2009,Minnesota,"Favre, Brett",17,1
-2009,New Jersey,"Prokhorov, Mikhail D",10,1
-2009,New York,"Rodriguez, Alex",134,1
-2009,North Carolina,"Brown, Larry",3,1
-2009,Ohio,"James, LeBron",38,1
-2009,Pennsylvania,"Lee, Cliff",17,1
-2009,Pennsylvania,"Manuel, Charlie",17,1
-2009,Pennsylvania,"Martinez, Pedro",17,1
-2009,Pennsylvania,"Vick, Michael",17,1
-2009,Tennessee,"Iverson, Allen",4,1
-2009,Tennessee,"McNair, Steve",4,1
-2009,Texas,"Jones, Jerry",12,1
-2009,Washington,"Matsui, Hideki",4,1
-2009,Washington,"Suzuki, Ichiro",4,1
-2009,Wisconsin,"Favre, Brett",11,1
-2010,Arizona,"Nash, Steve",10,1
-2010,Arizona,"Stoudemire, Amare",10,1
-2010,California,"Bryant, Kobe",32,1
-2010,Colorado,"ANTHONY, CARMELO",11,1
-2010,District of Columbia,"ARENAS, GILBERT",16,1
-2010,Florida,"James, LeBron",44,1
-2010,Georgia,"Cox, Bobby",5,1
-2010,Illinois,"James, LeBron",12,1
-2010,Indiana,"Manning, Peyton",28,1
-2010,Louisiana,"Brees, Drew",19,1
-2010,Maryland,"Sabathia, C C",5,1
-2010,Massachusetts,"Brady, Tom",23,1
-2010,Michigan,"Damon, Johnny",10,1
-2010,Minnesota,"Favre, Brett",44,1
-2010,New Jersey,"Prokhorov, Mikhail D",29,1
-2010,New York,"Rodriguez, Alex",87,1
-2010,North Carolina,"Jordan, Michael",8,1
-2010,Ohio,"James, LeBron",55,1
-2010,Oklahoma,"Durant, Kevin",11,1
-2010,Pennsylvania,"Halladay, Roy",30,1
-2010,Tennessee,"Fisher, Jeff",4,1
-2010,Tennessee,"Moss, Randy",4,1
-2010,Tennessee,"Young, Vince",4,1
-2010,Texas,"Lee, Cliff",39,1
-2010,Washington,"Lee, Cliff",7,1
-2010,Wisconsin,"Rodgers, Aaron",10,1
-2011,Arizona,"Nash, Steve",4,1
-2011,Arizona,"Stoudemire, Amare",4,1
-2011,California,"McCourt, Frank H Jr",34,1
-2011,Colorado,"Tebow, Tim",39,1
-2011,District of Columbia,"Strasburg, Stephen",6,1
-2011,Florida,"James, LeBron",87,1
-2011,Georgia,"Collins, Terry L",8,1
-2011,Illinois,"Rose, Derrick",19,1
-2011,Indiana,"Manning, Peyton",32,1
-2011,Louisiana,"Paul, Chris",26,1
-2011,Maryland,"Girardi, Joe",6,1
-2011,Maryland,"Ryan, Rex",6,1
-2011,Massachusetts,"Brady, Tom",37,1
-2011,Michigan,"Leyland, Jim",28,1
-2011,Michigan,"Verlander, Justin",28,1
-2011,Minnesota,"Rodriguez, Alex",6,1
-2011,Missouri,"Rodgers, Aaron",6,1
-2011,Nevada,"Pacquiao, Manny",3,1
-2011,New Jersey,"ANTHONY, CARMELO",30,1
-2011,New York,"Ryan, Rex",147,1
-2011,North Carolina,"Newton, Cameron J",7,1
-2011,Ohio,"McCoy, Colt",7,1
-2011,Oklahoma,"Durant, Kevin",12,1
-2011,Pennsylvania,"Roethlisberger, Ben",24,1
-2011,Tennessee,"Durant, Kevin",3,1
-2011,Tennessee,"Fisher, Jeff",3,1
-2011,Tennessee,"Randolph, Zach",3,1
-2011,Texas,"Nowitzki, Dirk",51,1
-2011,Utah,"Kreis, Jason",4,1
-2011,Washington,"Carroll, Pete",6,1
-2011,Wisconsin,"Rodgers, Aaron",53,1
-2012,Arizona,"Nash, Steve",8,1
-2012,California,"Bryant, Kobe",35,1
-2012,Colorado,"Tebow, Tim",44,1
-2012,District of Columbia,"Griffin, Robert III",23,1
-2012,Florida,"James, LeBron",82,1
-2012,Georgia,"Jones, Chipper",16,1
-2012,Illinois,"Rose, Derrick",22,1
-2012,Indiana,"Manning, Peyton",36,1
-2012,Louisiana,"Payton, Sean",30,1
-2012,Maryland,"Rodriguez, Alex",15,1
-2012,Massachusetts,"Brady, Tom",47,1
-2012,Michigan,"Cabrera, Miguel",30,1
-2012,Minnesota,"Hughes, Phil",5,1
-2012,Minnesota,"Peterson, Adrian",5,1
-2012,Missouri,"Belcher, Jovan",6,1
-2012,Missouri,"Crennel, Romeo",6,1
-2012,Nebraska,"Coughlin, Natalie",3,1
-2012,Nebraska,"Lochte, Ryan",3,1
-2012,Nebraska,"Phelps, Michael",3,1
-2012,New Jersey,"Williams, Deron",18,1
-2012,New York,"Lin, Jeremy",217,1
-2012,North Carolina,"Dunlap, Mike",5,1
-2012,North Carolina,"Jordan, Michael",5,1
-2012,North Carolina,"Newton, Cameron J",5,1
-2012,Ohio,"Manning, Eli",7,1
-2012,Oklahoma,"Durant, Kevin",42,1
-2012,Oregon,"Lillard, Damian",3,1
-2012,Pennsylvania,"Roethlisberger, Ben",15,1
-2012,Tennessee,"Manning, Peyton",5,1
-2012,Texas,"Lin, Jeremy",42,1
-2012,Utah,"Williams, Deron",3,1
-2012,Washington,"Suzuki, Ichiro",9,1
-2012,Wisconsin,"Braun, Ryan",16,1
-2012,Wisconsin,"Rodgers, Aaron",16,1
-2013,California,"Kepner, Tyler",33,1
-2013,Colorado,"Manning, Peyton",19,1
-2013,Connecticut,Prince Henry of Wales,3,1
-2013,District of Columbia,"Griffin, Robert III",17,1
-2013,Florida,"James, LeBron",94,1
-2013,Georgia,"Kepner, Tyler",10,1
-2013,Illinois,"Strauss, Ben",36,1
-2013,Indiana,"ANTHONY, CARMELO",24,1
-2013,Indiana,"Hibbert, Roy",24,1
-2013,Louisiana,"Goodell, Roger",6,1
-2013,Maryland,"Flacco, Joe",21,1
-2013,Massachusetts,"Kepner, Tyler",36,1
-2013,Michigan,"Cabrera, Miguel",16,1
-2013,Minnesota,"Borzi, Pat",16,1
-2013,Missouri,"Reid, Andy",5,1
-2013,Missouri,"Rivera, Mariano",5,1
-2013,Missouri,"Smith, Alex",5,1
-2013,Missouri,"Waldstein, David",5,1
-2013,New York,"Waldstein, David",208,1
-2013,North Carolina,"Newton, Cameron J",5,1
-2013,Ohio,"Kepner, Tyler",12,1
-2013,Oklahoma,"Durant, Kevin",10,1
-2013,Oregon,"Lillard, Damian",3,1
-2013,Pennsylvania,"Kepner, Tyler",21,1
-2013,Tennessee,"Duncan, Tim",5,1
-2013,Texas,"James, LeBron",36,1
-2013,Washington,"Wilson, Russell",9,1
-2013,Wisconsin,"Braun, Ryan",13,1
-2014,Alaska,"Jones, Jeremy",7,1
-2014,Arizona,"ANTHONY, CARMELO",3,1
-2014,California,"Sterling, Donald",79,1
-2014,Colorado,"Manning, Peyton",34,1
-2014,District of Columbia,"Kepner, Tyler",10,1
-2014,Florida,"James, LeBron",63,1
-2014,Georgia,"Levenson, Bruce",8,1
-2014,Illinois,"Strauss, Ben",15,1
-2014,Indiana,"James, LeBron",9,1
-2014,Maryland,"Rice, Ray",44,1
-2014,Massachusetts,"May, Peter",17,1
-2014,Michigan,"Kepner, Tyler",12,1
-2014,Minnesota,"Borzi, Pat",19,1
-2014,Missouri,"Kepner, Tyler",26,1
-2014,New Jersey,"Christie, Christopher J",4,1
-2014,New York,"Waldstein, David",151,1
-2014,North Carolina,"Newton, Cameron J",4,1
-2014,Ohio,"James, LeBron",43,1
-2014,Oklahoma,"Durant, Kevin",18,1
-2014,Pennsylvania,"Kepner, Tyler",8,1
-2014,Tennessee,"Gasol, Marc",4,1
-2014,Texas,"Popovich, Gregg",27,1
-2014,Washington,"Wilson, Russell",16,1
-2014,Wisconsin,"Rodgers, Aaron",12,1
-2015,Arizona,"Taurasi, Diana",5,1
-2015,California,"Curry, Stephen",45,1
-2015,Colorado,"Manning, Peyton",12,1
-2015,District of Columbia,"Scherzer, Max",13,1
-2015,Florida,"Rodriguez, Alex",15,1
-2015,Georgia,"Sefolosha, Thabo",10,1
-2015,Illinois,"Kepner, Tyler",23,1
-2015,Indiana,"Luck, Andrew",12,1
-2015,Louisiana,"Benson, Tom",6,1
-2015,Maryland,"Witz, Billy",14,1
-2015,Massachusetts,"Brady, Tom",100,1
-2015,Michigan,"Witz, Billy",8,1
-2015,Minnesota,"Peterson, Adrian",8,1
-2015,Missouri,"Kepner, Tyler",19,1
-2015,Nevada,"Mayweather, Floyd Jr",4,1
-2015,Nevada,"Pacquiao, Manny",4,1
-2015,New Jersey,"Christie, Christopher J",4,1
-2015,New York,"Witz, Billy",178,1
-2015,North Carolina,"Newton, Cameron J",11,1
-2015,Ohio,"James, LeBron",53,1
-2015,Oklahoma,"Durant, Kevin",6,1
-2015,Oklahoma,"Westbrook, Russell",6,1
-2015,Pennsylvania,"Kepner, Tyler",9,1
-2015,Tennessee,"Curry, Stephen",8,1
-2015,Texas,"Witz, Billy",19,1
-2015,Washington,"Carroll, Pete",16,1
-2015,Washington,"Wilson, Russell",16,1
-2015,Wisconsin,"Rodgers, Aaron",11,1
-2016,California,"Curry, Stephen",55,1
-2016,Colorado,"Manning, Peyton",16,1
-2016,District of Columbia,"Wagner, James",17,1
-2016,Florida,"Witz, Billy",14,1
-2016,Georgia,"Wagner, James",12,1
-2016,Illinois,"Kepner, Tyler",33,1
-2016,Kentucky,"ALI, MUHAMMAD",5,1
-2016,Louisiana,"Gasser, Ronald",3,1
-2016,Louisiana,"McKnight, Joe",3,1
-2016,Maryland,"Witz, Billy",10,1
-2016,Massachusetts,"Brady, Tom",23,1
-2016,Michigan,"Fulmer, Michael",5,1
-2016,Michigan,"Kepner, Tyler",5,1
-2016,Michigan,"Witz, Billy",5,1
-2016,Minnesota,"Borzi, Pat",13,1
-2016,Missouri,"Kepner, Tyler",11,1
-2016,Nevada,"Davis, Mark (1954/55- )",3,1
-2016,New York,"Witz, Billy",152,1
-2016,North Carolina,"Newton, Cameron J",20,1
-2016,Ohio,"James, LeBron",49,1
-2016,Oklahoma,"Durant, Kevin",13,1
-2016,Oregon,"Curry, Stephen",7,1
-2016,Pennsylvania,"Kepner, Tyler",10,1
-2016,Pennsylvania,"Wagner, James",10,1
-2016,Texas,"Kepner, Tyler",14,1
-2016,Washington,"Kepner, Tyler",6,1
-2016,Washington,"Wilson, Russell",6,1
-2016,Wisconsin,"Borzi, Pat",6,1
-2017,California,"Durant, Kevin",19,1
-2017,District of Columbia,"Cespedes, Yoenis",5,1
-2017,Florida,"Stanton, Giancarlo",11,1
-2017,Georgia,"Brady, Tom",11,1
-2017,Illinois,"Chapman, Aroldis",6,1
-2017,Illinois,"Maddon, Joe",6,1
-2017,Maryland,"Judge, Aaron",4,1
-2017,Massachusetts,"Brady, Tom",26,1
-2017,Michigan,"Stafford, Matthew",3,1
-2017,Missouri,"Moustakas, Mike",3,1
-2017,Nevada,"McGregor, Conor",3,1
-2017,New Jersey,"Trump, Donald J",3,1
-2017,New York,"ANTHONY, CARMELO",56,1
-2017,North Carolina,"Newton, Cameron J",4,1
-2017,Ohio,"James, LeBron",26,1
-2017,Oklahoma,"Westbrook, Russell",12,1
-2017,Pennsylvania,"Rodgers, Aaron",4,1
-2017,Pennsylvania,"Roethlisberger, Ben",4,1
-2017,Pennsylvania,"Ryan, Matt",4,1
-2017,Pennsylvania,"Wentz, Carson",4,1
-2017,Texas,"Elliott, Ezekiel",12,1
-2017,Texas,"Jones, Jerry",12,1
-2017,Washington,"Sherman, Richard",3,1
-2017,Wisconsin,"Rodgers, Aaron",10,1
-2018,Arizona,"Taurasi, Diana",3,1
-2018,California,"James, LeBron",38,1
-2018,District of Columbia,"Callaway, Mickey",4,1
-2018,District of Columbia,"Delle Donne, Elena",4,1
-2018,District of Columbia,"Harper, Bryce",4,1
-2018,Florida,"Stanton, Giancarlo",9,1
-2018,Georgia,"deGrom, Jacob",5,1
-2018,Illinois,"Murphy, Daniel",3,1
-2018,Indiana,"James, LeBron",3,1
-2018,Louisiana,"Brees, Drew",8,1
-2018,Maryland,"Jackson, Lamar",5,1
-2018,Massachusetts,"Brady, Tom",19,1
-2018,Michigan,"Nassar, Lawrence G",5,1
-2018,Minnesota,"Butler, Jimmy",3,1
-2018,Minnesota,"Foles, Nick",3,1
-2018,Minnesota,"Keenum, Case",3,1
-2018,Missouri,"Mahomes, Patrick",4,1
-2018,New York,"Boone, Aaron",42,1
-2018,North Carolina,"Richardson, Jerry",7,1
-2018,Ohio,"James, LeBron",40,1
-2018,Oklahoma,"ANTHONY, CARMELO",4,1
-2018,Pennsylvania,"Foles, Nick",13,1
-2018,Texas,"Harden, James",10,1
-2018,Washington,"Cano, Robinson",6,1
-2018,Wisconsin,"Counsell, Craig",6,1
-2019,California,"James, LeBron",41,1
-2019,Colorado,"Harden, James",4,1
-2019,Connecticut,"Delle Donne, Elena",7,1
-2019,District of Columbia,"Scherzer, Max",10,1
-2019,District of Columbia,"Strasburg, Stephen",10,1
-2019,Florida,"Jackson, Lamar",8,1
-2019,Georgia,"Acuna, Ronald Jr",3,1
-2019,Illinois,"Maddon, Joe",5,1
-2019,Indiana,"Luck, Andrew",4,1
-2019,Louisiana,"Brees, Drew",11,1
-2019,Louisiana,"Mahomes, Patrick",11,1
-2019,Maryland,"Jackson, Lamar",21,1
-2019,Massachusetts,"Brady, Tom",24,1
-2019,Michigan,"Jones, Daniel",3,1
-2019,Minnesota,"Cousins, Kirk",4,1
-2019,Missouri,"Mahomes, Patrick",22,1
-2019,Nevada,"Cambage, Liz",3,1
-2019,New York,"Boone, Aaron",32,1
-2019,North Carolina,"McCaffrey, Christian",3,1
-2019,Ohio,"Jackson, Lamar",10,1
-2019,Ohio,"Mahomes, Patrick",10,1
-2019,Ohio,"Mayfield, Baker",10,1
-2019,Oklahoma,"Westbrook, Russell",6,1
-2019,Oregon,"Curry, Stephen",6,1
-2019,Oregon,"Lillard, Damian",6,1
-2019,Pennsylvania,"Rudolph, Mason",8,1
-2019,Tennessee,"Jackson, Lamar",3,1
-2019,Texas,"Harden, James",19,1
-2019,Washington,"Suzuki, Ichiro",4,1
-2019,Wisconsin,"Antetokounmpo, Giannis",20,1
-2020,Arizona,"Taurasi, Diana",3,1
-2020,California,"James, LeBron",47,1
-2020,Colorado,"James, LeBron",6,1
-2020,District of Columbia,"Snyder, Daniel M",22,1
-2020,Florida,"Brady, Tom",23,1
-2020,Georgia,"Allen, Ricardo",3,1
-2020,Georgia,"Freeman, Freddie",3,1
-2020,Georgia,"Jackson, Lamar",3,1
-2020,Georgia,"Loeffler, Kelly L",3,1
-2020,Georgia,"Mahomes, Patrick",3,1
-2020,Georgia,"Ryan, Matt",3,1
-2020,Illinois,"Jordan, Michael",10,1
-2020,Indiana,"Brady, Tom",4,1
-2020,Indiana,"Rivers, Philip",4,1
-2020,Louisiana,"Brees, Drew",9,1
-2020,Maryland,"Jackson, Lamar",19,1
-2020,Massachusetts,"Brady, Tom",17,1
-2020,Minnesota,"Henry, Derrick",5,1
-2020,Minnesota,"Moore, Maya",5,1
-2020,Missouri,"Mahomes, Patrick",31,1
-2020,Nevada,"Bird, Sue",5,1
-2020,Nevada,"Carr, Derek",5,1
-2020,Nevada,"Newton, Cameron J",5,1
-2020,Nevada,"Wilson, A'ja",5,1
-2020,New York,"Boone, Aaron",19,1
-2020,North Carolina,"Newton, Cameron J",5,1
-2020,Ohio,"Burrow, Joe",10,1
-2020,Pennsylvania,"Roethlisberger, Ben",7,1
-2020,Tennessee,"Henry, Derrick",18,1
-2020,Texas,"Luhnow, Jeff",12,1
-2020,Utah,"Davis, Anthony",3,1
-2020,Utah,"James, LeBron",3,1
-2020,Washington,"Wilson, Russell",12,1
-2020,Wisconsin,"Antetokounmpo, Giannis",13,1
-2021,Arizona,"Booker, Devin",8,1
-2021,California,"James, LeBron",24,1
-2021,Colorado,"Allen, Josh",4,1
-2021,Colorado,"Barkley, Saquon",4,1
-2021,Colorado,"Bridgewater, Teddy",4,1
-2021,Colorado,"Jokic, Nikola",4,1
-2021,Colorado,"Jones, Mac",4,1
-2021,District of Columbia,"Westbrook, Russell",6,1
-2021,Florida,"Brady, Tom",37,1
-2021,Georgia,"Aaron, Hank",12,1
-2021,Illinois,"Parker, Candace",6,1
-2021,Illinois,"la Russa, Tony",6,1
-2021,Indiana,"Allen, Josh",6,1
-2021,Louisiana,"Jones, Daniel",6,1
-2021,Maryland,"Jackson, Lamar",15,1
-2021,Massachusetts,"Belichick, Bill",15,1
-2021,Michigan,"Brady, Tom",3,1
-2021,Michigan,"Darnold, Sam",3,1
-2021,Michigan,"Elliott, Ezekiel",3,1
-2021,Michigan,"Herbert, Justin",3,1
-2021,Michigan,"Jones, Daniel",3,1
-2021,Michigan,"Saleh, Robert",3,1
-2021,Minnesota,"Cousins, Kirk",3,1
-2021,Minnesota,"Jones, Daniel",3,1
-2021,Minnesota,"Rodgers, Aaron",3,1
-2021,Missouri,"Mahomes, Patrick",24,1
-2021,Nevada,"Gruden, Jon",11,1
-2021,New York,"Durant, Kevin",31,1
-2021,North Carolina,"Ball, LaMelo",7,1
-2021,Ohio,"Mayfield, Baker",14,1
-2021,Oregon,"Olshey, Neil",3,1
-2021,Pennsylvania,"Hurts, Jalen",6,1
-2021,Tennessee,"Henry, Derrick",8,1
-2021,Texas,"Correa, Carlos",13,1
-2021,Utah,"ANTHONY, CARMELO",3,1
-2021,Utah,"Gobert, Rudy",3,1
-2021,Washington,"Allen, Josh",4,1
-2021,Washington,"Brady, Tom",4,1
-2021,Washington,"Carroll, Pete",4,1
-2021,Wisconsin,"Rodgers, Aaron",30,1
-2022,Arizona,"Griner, Brittney",26,1
-2022,California,"Curry, Stephen",34,1
-2022,Colorado,"Wilson, Russell",8,1
-2022,Connecticut,"Jones, Jonquel",5,1
-2022,Connecticut,"Wilson, A'ja",5,1
-2022,District of Columbia,"Snyder, Daniel M",15,1
-2022,Florida,"Brady, Tom",29,1
-2022,Georgia,"Swanson, Dansby",6,1
-2022,Illinois,"Parker, Candace",6,1
-2022,Indiana,"Brady, Tom",4,1
-2022,Maryland,"Jackson, Lamar",7,1
-2022,Massachusetts,"Tatum, Jayson",24,1
-2022,Michigan,"Tagovailoa, Tua",4,1
-2022,Minnesota,"Bird, Sue",4,1
-2022,Minnesota,"Cousins, Kirk",4,1
-2022,Minnesota,"Fowles, Sylvia",4,1
-2022,Missouri,"Burrow, Joe",8,1
-2022,Missouri,"Mahomes, Patrick",8,1
-2022,Nevada,"Wilson, A'ja",8,1
-2022,New York,"Judge, Aaron",62,1
-2022,North Carolina,"Allen, Josh",3,1
-2022,North Carolina,"Jackson, Lamar",3,1
-2022,North Carolina,"Mayfield, Baker",3,1
-2022,Ohio,"Watson, Deshaun",25,1
-2022,Pennsylvania,"Harper, Bryce",18,1
-2022,Tennessee,"Morant, Ja",9,1
-2022,Texas,"Watson, Deshaun",16,1
-2022,Washington,"Rodriguez, Julio",8,1
-2022,Wisconsin,"Rodgers, Aaron",9,1
-2023,Arizona,"Durant, Kevin",4,1
-2023,Arizona,"Paul, Chris",4,1
-2023,California,"James, LeBron",22,1
-2023,Colorado,"Jokic, Nikola",14,1
-2023,District of Columbia,"Snyder, Daniel M",8,1
-2023,Florida,"Butler, Jimmy",12,1
-2023,Maryland,"Rutschman, Adley",3,1
-2023,Massachusetts,"Tatum, Jayson",8,1
-2023,Michigan,"Wembanyama, Victor",3,1
-2023,Missouri,"Mahomes, Patrick",25,1
-2023,Nevada,"Stewart, Breanna",3,1
-2023,Nevada,"Wilson, A'ja",3,1
-2023,New York,"Hamlin, Damar",37,1
-2023,Ohio,"Hamlin, Damar",14,1
-2023,Pennsylvania,"Hurts, Jalen",17,1
-2023,Pennsylvania,"Mahomes, Patrick",17,1
-2023,Tennessee,"Morant, Ja",10,1
-2023,Texas,"Wembanyama, Victor",9,1
-2023,Wisconsin,"Rodgers, Aaron",5,1
-2024,Alabama,"Mays, Willie",4,1
-2024,California,"Ohtani, Shohei",12,1
-2024,Indiana,"Clark, Caitlin",4,1
-2024,Kansas,"Robinson, Jackie",4,1
-2024,Massachusetts,"Belichick, Bill",5,1
-2024,Minnesota,"Walz, Tim",4,1
-2024,Missouri,"Swift, Taylor",16,1
-2024,Nevada,"Swift, Taylor",5,1
-2024,New York,"Trump, Donald J",6,1
-2024,Texas,"Tyson, Mike",3,1
+year,state,athlete,article_count,sport,rank
+2000,Arizona,"Dudley, Chris",2,Basketball,1
+2000,Arizona,"Ewing, Patrick",2,Basketball,1
+2000,Arizona,"Grant, Horace",2,Basketball,1
+2000,Arizona,"Knight, Travis",2,Basketball,1
+2000,Arizona,"Longley, Luc",2,Basketball,1
+2000,Arizona,"Maxwell, Vernon",2,Basketball,1
+2000,Arizona,"Rice, Glen",2,Basketball,1
+2000,California,"Bryant, Kobe",14,Basketball,1
+2000,Colorado,"Hampton, Mike",3,Baseball,1
+2000,Colorado,"Yoshii, Masato",3,Baseball,1
+2000,Connecticut,"Scinto, Daniel",3,Boxing/MMA,1
+2000,District of Columbia,"Jordan, Michael",15,Basketball,1
+2000,Florida,"Johnson, Keyshawn",16,Football,1
+2000,Georgia,"Rocker, John",71,Baseball,1
+2000,Illinois,"Sosa, Sammy",13,Baseball,1
+2000,Indiana,"Ewing, Patrick",15,Basketball,1
+2000,Louisiana,"Ditka, Mike",3,Football,1
+2000,Maryland,"Lewis, Ray",14,Football,1
+2000,Massachusetts,"Belichick, Bill",12,Football,1
+2000,Michigan,"Gonzalez, Juan",7,Baseball,1
+2000,Minnesota,"Smith, Joe",7,Basketball,1
+2000,Missouri,"Thomas, Derrick",5,Football,1
+2000,New Hampshire,"Francis, Julius",2,Boxing/MMA,1
+2000,New Hampshire,"Tyson, Mike",2,Boxing/MMA,1
+2000,New Jersey,"Marbury, Stephon",17,Basketball,1
+2000,New York,"Clemens, Roger",70,Baseball,1
+2000,North Carolina,"Phills, Bobby",8,Basketball,1
+2000,Ohio,"Griffey, Ken Jr",10,Baseball,1
+2000,Oregon,"Grant, Brian",4,Basketball,1
+2000,Pennsylvania,"Franco, John",4,Baseball,1
+2000,Pennsylvania,"Iverson, Allen",4,Basketball,1
+2000,Tennessee,"McNair, Steve",6,Football,1
+2000,Tennessee,"Warner, Kurt",6,Football,1
+2000,Texas,"Rodriguez, Alex",17,Baseball,1
+2000,Utah,"Malone, Karl",3,Basketball,1
+2000,Washington,"Ewing, Patrick",23,Basketball,1
+2000,Wisconsin,"Groh, Al",4,Football,1
+2001,Alabama,"Ashcroft, John",4,Baseball,1
+2001,Alabama,"Baxley, Bill",4,Baseball,1
+2001,Alabama,"CHAMBLISS, ROBERT",4,Baseball,1
+2001,Alabama,"Clinton, Bill",4,Baseball,1
+2001,Alabama,"Jones, Doug",4,Baseball,1
+2001,Alabama,"Lee, Spike",4,Baseball,1
+2001,Alabama,"Reno, Janet",4,Baseball,1
+2001,Alabama,"Rudolph, Eric Robert",4,Baseball,1
+2001,Arizona,"Kidd, Jason",8,Basketball,1
+2001,California,"Bonds, Barry",33,Baseball,1
+2001,Colorado,"AGBAYANI, BENNY",4,Baseball,1
+2001,Colorado,"Valentine, Bobby",4,Baseball,1
+2001,Connecticut,"Camby, Marcus",10,Basketball,1
+2001,Delaware,"Camby, Marcus",2,Basketball,1
+2001,District of Columbia,"Jordan, Michael",36,Basketball,1
+2001,Florida,"Mourning, Alonzo",10,Basketball,1
+2001,Georgia,"Mutombo, Dikembe",8,Basketball,1
+2001,Illinois,"Wells, David",8,Baseball,1
+2001,Indiana,"Edwards, Herman",3,Football,1
+2001,Indiana,"Miller, Reggie",3,Basketball,1
+2001,Kentucky,"Day, Pat",3,Horse Racing,1
+2001,Louisiana,"JOHNSON, MAGIC",4,Basketball,1
+2001,Louisiana,"Olson, Lute",4,Basketball,1
+2001,Louisiana,"Rodman, Dennis",4,Basketball,1
+2001,Maryland,"Lewis, Ray",20,Football,1
+2001,Massachusetts,"Cone, David",10,Baseball,1
+2001,Michigan,"JOHNSON, MAGIC",4,Basketball,1
+2001,Michigan,"Olson, Lute",4,Basketball,1
+2001,Michigan,"Rodman, Dennis",4,Basketball,1
+2001,Minnesota,"Stringer, Korey",27,Football,1
+2001,Missouri,"Clemens, Roger",3,Baseball,1
+2001,Missouri,"Knoblauch, Chuck",3,Baseball,1
+2001,Missouri,"Martinez, Tino",3,Baseball,1
+2001,Nevada,"AGASSI, ANDRE",2,Tennis,1
+2001,Nevada,"Graf, Steffi",2,Tennis,1
+2001,New Jersey,"Kidd, Jason",20,Basketball,1
+2001,New York,"Torre, Joe",63,Baseball,1
+2001,North Carolina,"Clinton, Bill",5,Baseball,1
+2001,Ohio,"Modell, Art",4,Football,1
+2001,Oklahoma,"Mickelson, Phil",2,Golf,1
+2001,Oregon,"Dunleavy, Mike",2,Basketball,1
+2001,Oregon,"Mutombo, Dikembe",2,Basketball,1
+2001,Oregon,"Van Gundy, Jeff",2,Basketball,1
+2001,Oregon,"Williams, Jason",2,Basketball,1
+2001,Pennsylvania,"Iverson, Allen",20,Basketball,1
+2001,Rhode Island,"Brown, Fred",2,Basketball,1
+2001,Rhode Island,"Thompson, John",2,Basketball,1
+2001,Rhode Island,"Walton, Bill",2,Basketball,1
+2001,Tennessee,"Heisley, Michael",2,Basketball,1
+2001,Tennessee,"Holmes, Ken",2,Football,1
+2001,Texas,"Rice, Glen",14,Basketball,1
+2001,Utah,"Malone, Karl",3,Basketball,1
+2001,Utah,"Rogge, Jacques",3,Olympics,1
+2001,Utah,"Romney, Mitt",3,Olympics,1
+2001,Utah,"Welch, Thomas K",3,Olympics,1
+2001,Virginia,"AGBAYANI, BENNY",4,Baseball,1
+2001,Virginia,"Valentine, Bobby",4,Baseball,1
+2001,Virginia,"White, Rick",4,Baseball,1
+2001,Washington,"Suzuki, Ichiro",17,Baseball,1
+2001,Wisconsin,"Mutombo, Dikembe",5,Basketball,1
+2002,Arizona,"Kidd, Jason",3,Basketball,1
+2002,Arizona,"Marbury, Stephon",3,Basketball,1
+2002,California,"Bonds, Barry",57,Baseball,1
+2002,Colorado,"McDyess, Antonio",8,Basketball,1
+2002,Connecticut,"JOHNSON, DAMONTIS",2,Football,1
+2002,District of Columbia,"Jordan, Michael",18,Basketball,1
+2002,Florida,"Parcells, Bill",11,Football,1
+2002,Georgia,"Glavine, Tom",14,Baseball,1
+2002,Hawaii,"Tyson, Mike",2,Boxing/MMA,1
+2002,Illinois,"Baker, Dusty",6,Baseball,1
+2002,Indiana,"Kidd, Jason",5,Basketball,1
+2002,Indiana,"Miller, Reggie",5,Basketball,1
+2002,Louisiana,"Davis, Baron",2,Basketball,1
+2002,Louisiana,"McAllister, Deuce",2,Football,1
+2002,Louisiana,"Williams, Ricky",2,Football,1
+2002,Maryland,"Bloomberg, Michael R",2,Olympics,1
+2002,Maryland,"DAVIS, DERRICK",2,Horse Racing,1
+2002,Maryland,"Lewis, Marvin",2,Football,1
+2002,Maryland,"Wells, David",2,Baseball,1
+2002,Massachusetts,"Belichick, Bill",23,Football,1
+2002,Michigan,"Garner, Phil",4,Baseball,1
+2002,Michigan,"Harrington, Joey",4,Football,1
+2002,Minnesota,"Selig, Bud",10,Baseball,1
+2002,Missouri,"Knoblauch, Chuck",4,Baseball,1
+2002,Nevada,"Tyson, Mike",9,Boxing/MMA,1
+2002,New Jersey,"Kidd, Jason",69,Basketball,1
+2002,New York,"Clemens, Roger",59,Baseball,1
+2002,North Carolina,"Kidd, Jason",12,Basketball,1
+2002,Ohio,"Rose, Pete",10,Baseball,1
+2002,Pennsylvania,"Iverson, Allen",17,Basketball,1
+2002,Tennessee,"Tyson, Mike",14,Boxing/MMA,1
+2002,Texas,"MING, YAO",9,Basketball,1
+2002,Utah,"Sale, Jamie",75,Olympics,1
+2002,Washington,"Piniella, Lou",18,Baseball,1
+2002,Wisconsin,"Favre, Brett",11,Football,1
+2003,Alabama,"Rudolph, Eric Robert",7,Olympics,1
+2003,Arizona,"Stoudemire, Amare",3,Basketball,1
+2003,California,"Bryant, Kobe",53,Basketball,1
+2003,Colorado,"Bryant, Kobe",36,Basketball,1
+2003,District of Columbia,"Jordan, Michael",13,Basketball,1
+2003,Florida,"Gruden, Jon",16,Football,1
+2003,Georgia,"Rudolph, Eric Robert",9,Olympics,1
+2003,Georgia,"Vick, Michael",9,Football,1
+2003,Illinois,"Sosa, Sammy",14,Baseball,1
+2003,Indiana,"ARTEST, RON",5,Basketball,1
+2003,Indiana,"Dungy, Tony",5,Football,1
+2003,Louisiana,"Horn, Joe",3,Football,1
+2003,Louisiana,"Palmer, Jesse",3,Football,1
+2003,Maryland,"Bechler, Steve",19,Baseball,1
+2003,Massachusetts,"Clemens, Roger",26,Baseball,1
+2003,Massachusetts,"Martinez, Pedro",26,Baseball,1
+2003,Michigan,"Clemens, Roger",5,Baseball,1
+2003,Minnesota,"Sprewell, Latrell",16,Basketball,1
+2003,Missouri,"Pena, Tony",3,Baseball,1
+2003,New Jersey,"Kidd, Jason",79,Basketball,1
+2003,New York,"Clemens, Roger",81,Baseball,1
+2003,North Carolina,"Rudolph, Eric Robert",6,Olympics,1
+2003,Ohio,"James, LeBron",29,Basketball,1
+2003,Oregon,"Cheeks, Maurice",6,Basketball,1
+2003,Pennsylvania,"McNabb, Donovan",13,Football,1
+2003,Tennessee,"McNair, Steve",5,Football,1
+2003,Texas,"Kidd, Jason",24,Basketball,1
+2003,Utah,"Welch, Thomas K",13,Olympics,1
+2003,Virginia,"Dennehy, Patrick",2,Basketball,1
+2003,Virginia,"Dotson, Carlton",2,Basketball,1
+2003,Washington,"Benitez, Armando",3,Baseball,1
+2003,Washington,"Boone, Bret",3,Baseball,1
+2003,Washington,"Nelson, Jeff",3,Baseball,1
+2003,Wisconsin,"Payton, Gary",5,Basketball,1
+2004,Arizona,"Marbury, Stephon",2,Basketball,1
+2004,Arizona,"Taurasi, Diana",2,Basketball,1
+2004,Arizona,"Ward, Charlie",2,Basketball,1
+2004,California,"Bonds, Barry",56,Baseball,1
+2004,Colorado,"Bryant, Kobe",43,Basketball,1
+2004,Connecticut,"Holtz, Jeff",3,Tennis,1
+2004,Connecticut,"SIENKO, CHRIS",3,Basketball,1
+2004,District of Columbia,"Gibbs, Joe",11,Football,1
+2004,Florida,"O'Neal, Shaquille",8,Basketball,1
+2004,Georgia,"Manning, Eli",9,Football,1
+2004,Hawaii,"CROSSAN, LAUREN",3,Football,1
+2004,Illinois,"Maddux, Greg",6,Baseball,1
+2004,Indiana,"ARTEST, RON",28,Basketball,1
+2004,Louisiana,"Scott, Byron",2,Basketball,1
+2004,Maryland,"Carter, Quincy",6,Football,1
+2004,Maryland,"Lewis, Jamal",6,Football,1
+2004,Massachusetts,"Martinez, Pedro",38,Baseball,1
+2004,Michigan,"ARTEST, RON",26,Basketball,1
+2004,Minnesota,"Santana, Johan",9,Baseball,1
+2004,Missouri,"Beltran, Carlos",4,Baseball,1
+2004,New Hampshire,"TOLME, ANDRE",2,Golf,1
+2004,New Jersey,"Christofi, Costas",47,Basketball,1
+2004,New York,"Rodriguez, Alex",100,Baseball,1
+2004,North Carolina,"Jackson, Janet",10,Football,1
+2004,North Carolina,"Timberlake, Justin",10,Football,1
+2004,Ohio,"Rose, Pete",22,Baseball,1
+2004,Oregon,"ABDUR-RAHIM, SHAREEF",3,Basketball,1
+2004,Pennsylvania,"Owens, Terrell",12,Football,1
+2004,Tennessee,"Fiedler, Jay",2,Football,1
+2004,Tennessee,"Williams, Jason",2,Basketball,1
+2004,Texas,"Clemens, Roger",38,Baseball,1
+2004,Washington,"Suzuki, Ichiro",11,Baseball,1
+2004,Wisconsin,"Favre, Brett",6,Football,1
+2005,Alabama,"JACKSON, RODERICK",2,Basketball,1
+2005,Arizona,"Nash, Steve",4,Basketball,1
+2005,California,"Bonds, Barry",23,Baseball,1
+2005,Colorado,"Bryant, Kobe",2,Basketball,1
+2005,Colorado,"Martin, Kenyon",2,Basketball,1
+2005,Colorado,"Plummer, Jake",2,Football,1
+2005,District of Columbia,"Bush, George W",6,Baseball,1
+2005,Florida,"Delgado, Carlos",14,Baseball,1
+2005,Florida,"O'Neal, Shaquille",14,Basketball,1
+2005,Georgia,"Smoltz, John",7,Baseball,1
+2005,Georgia,"Vick, Michael",7,Football,1
+2005,Illinois,"Contreras, Jose",5,Baseball,1
+2005,Illinois,"Curry, Eddy",5,Basketball,1
+2005,Illinois,"Guillen, Ozzie",5,Baseball,1
+2005,Illinois,"Sosa, Sammy",5,Baseball,1
+2005,Indiana,"Manning, Peyton",16,Football,1
+2005,Kentucky,"ALI, MUHAMMAD",2,Boxing/MMA,1
+2005,Kentucky,"Fox, Michael J",2,Boxing/MMA,1
+2005,Louisiana,"Bollinger, Brooks",3,Football,1
+2005,Maryland,"Palmeiro, Rafael",11,Baseball,1
+2005,Massachusetts,"Belichick, Bill",19,Football,1
+2005,Michigan,"Brown, Larry",22,Basketball,1
+2005,Minnesota,"McCombs, Red",4,Football,1
+2005,Minnesota,"Moss, Randy",4,Football,1
+2005,Minnesota,"Tice, Mike",4,Football,1
+2005,Missouri,"Barber, Tiki",3,Football,1
+2005,Missouri,"Vermeil, Dick",3,Football,1
+2005,Nevada,"Castillo, Luis",2,Boxing/MMA,1
+2005,New Hampshire,"Glazer, Malcolm",4,Soccer,1
+2005,New Jersey,"Carter, Vince",28,Basketball,1
+2005,New York,"Bloomberg, Michael R",84,Football,1
+2005,North Carolina,"Bollinger, Brooks",3,Football,1
+2005,Ohio,"James, LeBron",9,Basketball,1
+2005,Oregon,"Cheeks, Maurice",2,Basketball,1
+2005,Pennsylvania,"Owens, Terrell",31,Football,1
+2005,South Carolina,"Brown, Larry",3,Basketball,1
+2005,South Carolina,"Curry, Eddy",3,Basketball,1
+2005,Texas,"Clemens, Roger",20,Baseball,1
+2005,Utah,"Brown, Larry",2,Basketball,1
+2005,Washington,"ALEXANDER, SHAUN",4,Football,1
+2005,Wisconsin,"Beltran, Carlos",2,Baseball,1
+2005,Wisconsin,"Brown, Larry",2,Basketball,1
+2005,Wisconsin,"Favre, Brett",2,Football,1
+2005,Wisconsin,"Kidd, Jason",2,Basketball,1
+2005,Wisconsin,"Marbury, Stephon",2,Basketball,1
+2005,Wisconsin,"Moss, Randy",2,Football,1
+2005,Wisconsin,"Piazza, Mike",2,Baseball,1
+2006,Arizona,"Nash, Steve",11,Basketball,1
+2006,California,"Bonds, Barry",136,Baseball,1
+2006,Colorado,"Thomas, Isiah",17,Basketball,1
+2006,Connecticut,"O'Rourke, James Henry",4,Baseball,1
+2006,District of Columbia,"Soriano, Alfonso",10,Baseball,1
+2006,Florida,"Wade, Dwyane",25,Basketball,1
+2006,Georgia,"Glavine, Tom",7,Baseball,1
+2006,Illinois,"Curry, Eddy",8,Basketball,1
+2006,Illinois,"Grossman, Rex",8,Football,1
+2006,Illinois,"Guillen, Ozzie",8,Baseball,1
+2006,Indiana,"Manning, Peyton",33,Football,1
+2006,Kentucky,"Bruno, Joseph L",2,Horse Racing,1
+2006,Louisiana,"Bush, Reggie",16,Football,1
+2006,Maryland,"Benson, Kris",6,Baseball,1
+2006,Massachusetts,"Matsuzaka, Daisuke",27,Baseball,1
+2006,Michigan,"Leyland, Jim",36,Baseball,1
+2006,Minnesota,"Liriano, Francisco",10,Baseball,1
+2006,Mississippi,"Blanco, Kathleen Babineaux",2,Football,1
+2006,Missouri,"Edwards, Herman",14,Football,1
+2006,New Jersey,"Carter, Vince",74,Basketball,1
+2006,New York,"Thomas, Isiah",161,Basketball,1
+2006,North Carolina,"Nifong, Michael B",9,Other,1
+2006,Ohio,"James, LeBron",30,Basketball,1
+2006,Pennsylvania,"Iverson, Allen",26,Basketball,1
+2006,Tennessee,"Young, Vince",14,Football,1
+2006,Texas,"Owens, Terrell",35,Football,1
+2006,Utah,"Carter, Vince",2,Basketball,1
+2006,Utah,"Gasol, Pau",2,Basketball,1
+2006,Utah,"Ginobili, Manu",2,Basketball,1
+2006,Utah,"Krstic, Nenad",2,Basketball,1
+2006,Utah,"Nowitzki, Dirk",2,Basketball,1
+2006,Utah,"Okur, Mehmet",2,Basketball,1
+2006,Utah,"Parker, Tony",2,Basketball,1
+2006,Utah,"Sloan, Jerry",2,Basketball,1
+2006,Washington,"ALEXANDER, SHAUN",10,Football,1
+2006,Wisconsin,"Favre, Brett",7,Football,1
+2007,Arizona,"Nash, Steve",13,Basketball,1
+2007,California,"Bonds, Barry",77,Baseball,1
+2007,Colorado,"ANTHONY, CARMELO",6,Basketball,1
+2007,District of Columbia,"Taylor, Sean",11,Football,1
+2007,Florida,"Wade, Dwyane",12,Basketball,1
+2007,Georgia,"Vick, Michael",21,Football,1
+2007,Illinois,"Grossman, Rex",10,Football,1
+2007,Indiana,"Manning, Peyton",34,Football,1
+2007,Louisiana,"Bush, Reggie",8,Football,1
+2007,Maryland,"Mussina, Mike",4,Baseball,1
+2007,Massachusetts,"Belichick, Bill",45,Football,1
+2007,Michigan,"James, LeBron",12,Basketball,1
+2007,Minnesota,"Santana, Johan",12,Baseball,1
+2007,Missouri,"Rodriguez, Alex",3,Baseball,1
+2007,Nevada,"De La Hoya, Oscar",4,Boxing/MMA,1
+2007,New Jersey,"Carter, Vince",71,Basketball,1
+2007,New York,"Rodriguez, Alex",137,Baseball,1
+2007,North Carolina,"Nifong, Michael B",5,Other,1
+2007,Ohio,"James, LeBron",29,Basketball,1
+2007,Oregon,"Randolph, Zach",6,Basketball,1
+2007,Pennsylvania,"McNabb, Donovan",10,Football,1
+2007,Tennessee,"Jones, Pacman",6,Football,1
+2007,Texas,"Romo, Tony",17,Football,1
+2007,Utah,"Boozer, Carlos Jr",4,Basketball,1
+2007,Washington,"Durant, Kevin",6,Basketball,1
+2007,Wisconsin,"Favre, Brett",8,Football,1
+2008,Arizona,"O'Neal, Shaquille",10,Basketball,1
+2008,California,"Bryant, Kobe",22,Basketball,1
+2008,Colorado,"Battista, Judy",3,Football,1
+2008,Colorado,"Cutler, Jay",3,Football,1
+2008,District of Columbia,"Schneider, Brian",3,Baseball,1
+2008,Florida,"Maddon, Joe",11,Baseball,1
+2008,Georgia,"Glavine, Tom",4,Baseball,1
+2008,Georgia,"Vick, Michael",4,Football,1
+2008,Hawaii,"Slater, Kelly",2,Other,1
+2008,Illinois,"Guillen, Ozzie",7,Baseball,1
+2008,Indiana,"Manning, Peyton",7,Football,1
+2008,Louisiana,"Paul, Chris",5,Basketball,1
+2008,Maryland,"Girardi, Joe",3,Baseball,1
+2008,Maryland,"Rodriguez, Alex",3,Baseball,1
+2008,Massachusetts,"Belichick, Bill",37,Football,1
+2008,Michigan,"Thomas, Isiah",4,Basketball,1
+2008,Minnesota,"Santana, Johan",8,Baseball,1
+2008,Missouri,"Battista, Judy",2,Football,1
+2008,Missouri,"Johnson, Larry",2,Football,1
+2008,New Jersey,"Kidd, Jason",18,Basketball,1
+2008,New York,"Favre, Brett",76,Football,1
+2008,North Carolina,"Brown, Larry",3,Basketball,1
+2008,Ohio,"James, LeBron",14,Basketball,1
+2008,Oregon,"Oden, Greg",3,Basketball,1
+2008,Pennsylvania,"Rollins, Jimmy",8,Baseball,1
+2008,Tennessee,"Randolph, Zach",3,Basketball,1
+2008,Tennessee,"Young, Vince",3,Football,1
+2008,Texas,"Romo, Tony",21,Football,1
+2008,Washington,"Favre, Brett",5,Football,1
+2008,Wisconsin,"Favre, Brett",38,Football,1
+2009,Arizona,"O'Neal, Shaquille",5,Basketball,1
+2009,California,"Bryant, Kobe",30,Basketball,1
+2009,Colorado,"ANTHONY, CARMELO",9,Basketball,1
+2009,District of Columbia,"Manuel, Jerry",5,Baseball,1
+2009,Florida,"Howard, Dwight",27,Basketball,1
+2009,Georgia,"Manuel, Jerry",6,Baseball,1
+2009,Illinois,"Rose, Derrick",7,Basketball,1
+2009,Indiana,"Manning, Peyton",7,Football,1
+2009,Louisiana,"Brees, Drew",8,Football,1
+2009,Maryland,"Flacco, Joe",7,Football,1
+2009,Massachusetts,"Ortiz, David",23,Baseball,1
+2009,Michigan,"Malkin, Evgeni",8,Hockey,1
+2009,Michigan,"Zetterberg, Henrik",8,Hockey,1
+2009,Minnesota,"Favre, Brett",17,Football,1
+2009,Missouri,"Cassel, Matt",2,Football,1
+2009,Missouri,"Greinke, Zack",2,Baseball,1
+2009,Missouri,"Kehl, Bryan",2,Football,1
+2009,Missouri,"Manning, Eli",2,Football,1
+2009,Missouri,"Smith, Steve",2,Football,1
+2009,New Jersey,"Prokhorov, Mikhail D",10,Basketball,1
+2009,New York,"Rodriguez, Alex",134,Baseball,1
+2009,North Carolina,"Brown, Larry",3,Basketball,1
+2009,Ohio,"James, LeBron",38,Basketball,1
+2009,Oklahoma,"Durant, Kevin",2,Basketball,1
+2009,Pennsylvania,"Lee, Cliff",17,Baseball,1
+2009,Pennsylvania,"Manuel, Charlie",17,Baseball,1
+2009,Pennsylvania,"Martinez, Pedro",17,Baseball,1
+2009,Pennsylvania,"Vick, Michael",17,Football,1
+2009,Tennessee,"Iverson, Allen",4,Basketball,1
+2009,Tennessee,"McNair, Steve",4,Football,1
+2009,Texas,"Jones, Jerry",12,Football,1
+2009,Washington,"Matsui, Hideki",4,Baseball,1
+2009,Washington,"Suzuki, Ichiro",4,Baseball,1
+2009,Wisconsin,"Favre, Brett",11,Football,1
+2010,Arizona,"Nash, Steve",10,Basketball,1
+2010,Arizona,"Stoudemire, Amare",10,Basketball,1
+2010,California,"Bryant, Kobe",32,Basketball,1
+2010,Colorado,"ANTHONY, CARMELO",11,Basketball,1
+2010,Connecticut,"McMahon, Linda E",2,Boxing/MMA,1
+2010,District of Columbia,"ARENAS, GILBERT",16,Basketball,1
+2010,Florida,"James, LeBron",44,Basketball,1
+2010,Georgia,"Cox, Bobby",5,Baseball,1
+2010,Illinois,"James, LeBron",12,Basketball,1
+2010,Indiana,"Manning, Peyton",28,Football,1
+2010,Louisiana,"Brees, Drew",19,Football,1
+2010,Maryland,"Sabathia, C C",5,Baseball,1
+2010,Massachusetts,"Brady, Tom",23,Football,1
+2010,Michigan,"Damon, Johnny",10,Baseball,1
+2010,Minnesota,"Favre, Brett",44,Football,1
+2010,Missouri,"Jones, Thomas",2,Football,1
+2010,Missouri,"Posada, Jorge",2,Baseball,1
+2010,Missouri,"Rodriguez, Alex",2,Baseball,1
+2010,New Jersey,"Prokhorov, Mikhail D",29,Basketball,1
+2010,New York,"Rodriguez, Alex",87,Baseball,1
+2010,North Carolina,"Jordan, Michael",8,Basketball,1
+2010,Ohio,"James, LeBron",55,Basketball,1
+2010,Oklahoma,"Durant, Kevin",11,Basketball,1
+2010,Oregon,"Stoudemire, Amare",2,Basketball,1
+2010,Pennsylvania,"Halladay, Roy",30,Baseball,1
+2010,Tennessee,"Fisher, Jeff",4,Football,1
+2010,Tennessee,"Moss, Randy",4,Football,1
+2010,Tennessee,"Young, Vince",4,Football,1
+2010,Texas,"Lee, Cliff",39,Baseball,1
+2010,Utah,"Boozer, Carlos Jr",2,Basketball,1
+2010,Utah,"Butler, Caron",2,Basketball,1
+2010,Utah,"Durant, Kevin",2,Basketball,1
+2010,Utah,"James, LeBron",2,Basketball,1
+2010,Utah,"Nowitzki, Dirk",2,Basketball,1
+2010,Utah,"Rose, Derrick",2,Basketball,1
+2010,Utah,"Stoudemire, Amare",2,Basketball,1
+2010,Utah,"Williams, Deron",2,Basketball,1
+2010,Virginia,"Huguely, George",2,Other,1
+2010,Virginia,"Love, Yeardley",2,Other,1
+2010,Washington,"Lee, Cliff",7,Baseball,1
+2010,Wisconsin,"Rodgers, Aaron",10,Football,1
+2011,Arizona,"Nash, Steve",4,Basketball,1
+2011,Arizona,"Stoudemire, Amare",4,Basketball,1
+2011,California,"McCourt, Frank H Jr",34,Baseball,1
+2011,Colorado,"Tebow, Tim",39,Football,1
+2011,District of Columbia,"Strasburg, Stephen",6,Baseball,1
+2011,Florida,"James, LeBron",87,Basketball,1
+2011,Georgia,"Collins, Terry L",8,Baseball,1
+2011,Illinois,"Rose, Derrick",19,Basketball,1
+2011,Indiana,"Manning, Peyton",32,Football,1
+2011,Kansas,"Henry, Thierry",2,Soccer,1
+2011,Kentucky,"Smith, Mike",2,Horse Racing,1
+2011,Louisiana,"Paul, Chris",26,Basketball,1
+2011,Maryland,"Girardi, Joe",6,Baseball,1
+2011,Maryland,"Ryan, Rex",6,Football,1
+2011,Massachusetts,"Brady, Tom",37,Football,1
+2011,Michigan,"Leyland, Jim",28,Baseball,1
+2011,Michigan,"Verlander, Justin",28,Baseball,1
+2011,Minnesota,"Rodriguez, Alex",6,Baseball,1
+2011,Missouri,"Rodgers, Aaron",6,Football,1
+2011,Nevada,"Pacquiao, Manny",3,Boxing/MMA,1
+2011,New Jersey,"ANTHONY, CARMELO",30,Basketball,1
+2011,New York,"Ryan, Rex",147,Football,1
+2011,North Carolina,"Newton, Cameron J",7,Football,1
+2011,Ohio,"McCoy, Colt",7,Football,1
+2011,Oklahoma,"Durant, Kevin",12,Basketball,1
+2011,Oregon,"Roy, Brandon",2,Basketball,1
+2011,Oregon,"Spencer, John",2,Soccer,1
+2011,Pennsylvania,"Roethlisberger, Ben",24,Football,1
+2011,Tennessee,"Durant, Kevin",3,Basketball,1
+2011,Tennessee,"Fisher, Jeff",3,Football,1
+2011,Tennessee,"Randolph, Zach",3,Basketball,1
+2011,Texas,"Nowitzki, Dirk",51,Basketball,1
+2011,Utah,"Kreis, Jason",4,Soccer,1
+2011,Washington,"Carroll, Pete",6,Football,1
+2011,Wisconsin,"Rodgers, Aaron",53,Football,1
+2012,Arizona,"Nash, Steve",8,Basketball,1
+2012,Arkansas,"Baffert, Bob",2,Horse Racing,1
+2012,Arkansas,"Petrino, Bobby",2,Football,1
+2012,California,"Bryant, Kobe",35,Basketball,1
+2012,Colorado,"Tebow, Tim",44,Football,1
+2012,Connecticut,"Charles, Tina",2,Basketball,1
+2012,Connecticut,"Pondexter, Cappie",2,Basketball,1
+2012,District of Columbia,"Griffin, Robert III",23,Football,1
+2012,Florida,"James, LeBron",82,Basketball,1
+2012,Georgia,"Jones, Chipper",16,Baseball,1
+2012,Illinois,"Rose, Derrick",22,Basketball,1
+2012,Indiana,"Manning, Peyton",36,Football,1
+2012,Louisiana,"Payton, Sean",30,Football,1
+2012,Maryland,"Rodriguez, Alex",15,Baseball,1
+2012,Massachusetts,"Brady, Tom",47,Football,1
+2012,Michigan,"Cabrera, Miguel",30,Baseball,1
+2012,Minnesota,"Hughes, Phil",5,Baseball,1
+2012,Minnesota,"Peterson, Adrian",5,Football,1
+2012,Missouri,"Belcher, Jovan",6,Football,1
+2012,Missouri,"Crennel, Romeo",6,Football,1
+2012,Nebraska,"Coughlin, Natalie",3,Track & Field,1
+2012,Nebraska,"Lochte, Ryan",3,Track & Field,1
+2012,Nebraska,"Phelps, Michael",3,Track & Field,1
+2012,Nevada,"Pacquiao, Manny",2,Boxing/MMA,1
+2012,New Jersey,"Williams, Deron",18,Basketball,1
+2012,New York,"Lin, Jeremy",217,Basketball,1
+2012,North Carolina,"Dunlap, Mike",5,Basketball,1
+2012,North Carolina,"Jordan, Michael",5,Basketball,1
+2012,North Carolina,"Newton, Cameron J",5,Football,1
+2012,Ohio,"Manning, Eli",7,Football,1
+2012,Oklahoma,"Durant, Kevin",42,Basketball,1
+2012,Oregon,"Lillard, Damian",3,Basketball,1
+2012,Pennsylvania,"Roethlisberger, Ben",15,Football,1
+2012,South Carolina,"Bradley, Keegan",2,Golf,1
+2012,South Carolina,"Pettersson, Carl",2,Golf,1
+2012,Tennessee,"Manning, Peyton",5,Football,1
+2012,Texas,"Lin, Jeremy",42,Basketball,1
+2012,Utah,"Williams, Deron",3,Basketball,1
+2012,Washington,"Suzuki, Ichiro",9,Baseball,1
+2012,Wisconsin,"Braun, Ryan",16,Baseball,1
+2012,Wisconsin,"Rodgers, Aaron",16,Football,1
+2013,California,"Kepner, Tyler",33,Baseball,1
+2013,Colorado,"Manning, Peyton",19,Football,1
+2013,Connecticut,Prince Henry of Wales,3,Other,1
+2013,District of Columbia,"Griffin, Robert III",17,Football,1
+2013,Florida,"James, LeBron",94,Basketball,1
+2013,Georgia,"Kepner, Tyler",10,Baseball,1
+2013,Illinois,"Strauss, Ben",36,Basketball,1
+2013,Indiana,"ANTHONY, CARMELO",24,Basketball,1
+2013,Indiana,"Hibbert, Roy",24,Basketball,1
+2013,Kentucky,"McGaughey, Shug",2,Horse Racing,1
+2013,Louisiana,"Goodell, Roger",6,Football,1
+2013,Maryland,"Flacco, Joe",21,Football,1
+2013,Massachusetts,"Kepner, Tyler",36,Baseball,1
+2013,Michigan,"Cabrera, Miguel",16,Baseball,1
+2013,Minnesota,"Borzi, Pat",16,Baseball,1
+2013,Missouri,"Reid, Andy",5,Football,1
+2013,Missouri,"Rivera, Mariano",5,Baseball,1
+2013,Missouri,"Smith, Alex",5,Football,1
+2013,Missouri,"Waldstein, David",5,Baseball,1
+2013,New Jersey,"Kidd, Jason",2,Basketball,1
+2013,New York,"Waldstein, David",208,Baseball,1
+2013,North Carolina,"Newton, Cameron J",5,Football,1
+2013,Ohio,"Kepner, Tyler",12,Baseball,1
+2013,Oklahoma,"Durant, Kevin",10,Basketball,1
+2013,Oregon,"Lillard, Damian",3,Basketball,1
+2013,Pennsylvania,"Kepner, Tyler",21,Baseball,1
+2013,Tennessee,"Duncan, Tim",5,Basketball,1
+2013,Texas,"James, LeBron",36,Basketball,1
+2013,Utah,"Durant, Kevin",2,Basketball,1
+2013,Utah,"Felton, Raymond",2,Basketball,1
+2013,Washington,"Wilson, Russell",9,Football,1
+2013,Wisconsin,"Braun, Ryan",13,Baseball,1
+2014,Alaska,"Jones, Jeremy",7,Other,1
+2014,Arizona,"ANTHONY, CARMELO",3,Basketball,1
+2014,California,"Sterling, Donald",79,Basketball,1
+2014,Colorado,"Manning, Peyton",34,Football,1
+2014,Connecticut,"Berkman, Seth",2,Basketball,1
+2014,District of Columbia,"Kepner, Tyler",10,Baseball,1
+2014,Florida,"James, LeBron",63,Basketball,1
+2014,Georgia,"Levenson, Bruce",8,Basketball,1
+2014,Hawaii,"Medina, Gabriel",2,Other,1
+2014,Illinois,"Strauss, Ben",15,Baseball,1
+2014,Indiana,"James, LeBron",9,Basketball,1
+2014,Louisiana,"Payton, Sean",2,Football,1
+2014,Maryland,"Rice, Ray",44,Football,1
+2014,Massachusetts,"May, Peter",17,Football,1
+2014,Michigan,"Kepner, Tyler",12,Baseball,1
+2014,Minnesota,"Borzi, Pat",19,Football,1
+2014,Missouri,"Kepner, Tyler",26,Baseball,1
+2014,New Jersey,"Christie, Christopher J",4,Football,1
+2014,New York,"Waldstein, David",151,Baseball,1
+2014,North Carolina,"Newton, Cameron J",4,Football,1
+2014,Ohio,"James, LeBron",43,Basketball,1
+2014,Oklahoma,"Durant, Kevin",18,Basketball,1
+2014,Oregon,"Lillard, Damian",2,Basketball,1
+2014,Pennsylvania,"Kepner, Tyler",8,Baseball,1
+2014,Tennessee,"Gasol, Marc",4,Basketball,1
+2014,Texas,"Popovich, Gregg",27,Basketball,1
+2014,Utah,"ANTHONY, CARMELO",2,Basketball,1
+2014,Washington,"Wilson, Russell",16,Football,1
+2014,Wisconsin,"Rodgers, Aaron",12,Football,1
+2014,Wyoming,"Jones, Jeremy",2,Other,1
+2015,Arizona,"Taurasi, Diana",5,Basketball,1
+2015,California,"Curry, Stephen",45,Basketball,1
+2015,Colorado,"Manning, Peyton",12,Football,1
+2015,District of Columbia,"Scherzer, Max",13,Baseball,1
+2015,Florida,"Rodriguez, Alex",15,Baseball,1
+2015,Georgia,"Sefolosha, Thabo",10,Basketball,1
+2015,Illinois,"Kepner, Tyler",23,Baseball,1
+2015,Indiana,"Luck, Andrew",12,Football,1
+2015,Louisiana,"Benson, Tom",6,Football,1
+2015,Maine,"ALI, MUHAMMAD",2,Boxing/MMA,1
+2015,Maine,"Liston, Sonny",2,Boxing/MMA,1
+2015,Maryland,"Witz, Billy",14,Baseball,1
+2015,Massachusetts,"Brady, Tom",100,Football,1
+2015,Michigan,"Witz, Billy",8,Baseball,1
+2015,Minnesota,"Peterson, Adrian",8,Football,1
+2015,Missouri,"Kepner, Tyler",19,Baseball,1
+2015,Nevada,"Mayweather, Floyd Jr",4,Boxing/MMA,1
+2015,Nevada,"Pacquiao, Manny",4,Boxing/MMA,1
+2015,New Jersey,"Christie, Christopher J",4,Football,1
+2015,New York,"Witz, Billy",178,Baseball,1
+2015,North Carolina,"Newton, Cameron J",11,Football,1
+2015,Ohio,"James, LeBron",53,Basketball,1
+2015,Oklahoma,"Durant, Kevin",6,Basketball,1
+2015,Oklahoma,"Westbrook, Russell",6,Basketball,1
+2015,Oregon,"Clarey, Christopher",2,Track & Field,1
+2015,Pennsylvania,"Kepner, Tyler",9,Baseball,1
+2015,Tennessee,"Curry, Stephen",8,Basketball,1
+2015,Texas,"Witz, Billy",19,Baseball,1
+2015,Virginia,"Trump, Donald J",2,Golf,1
+2015,Washington,"Carroll, Pete",16,Football,1
+2015,Washington,"Wilson, Russell",16,Football,1
+2015,Wisconsin,"Rodgers, Aaron",11,Football,1
+2016,Arizona,"Hornacek, Jeff",2,Basketball,1
+2016,Arizona,"Mather, Victor",2,Basketball,1
+2016,California,"Curry, Stephen",55,Basketball,1
+2016,Colorado,"Manning, Peyton",16,Football,1
+2016,District of Columbia,"Wagner, James",17,Baseball,1
+2016,Florida,"Witz, Billy",14,Baseball,1
+2016,Georgia,"Wagner, James",12,Baseball,1
+2016,Illinois,"Kepner, Tyler",33,Baseball,1
+2016,Indiana,"ANTHONY, CARMELO",2,Basketball,1
+2016,Indiana,"Jackson, Phil",2,Basketball,1
+2016,Indiana,"Rambis, Kurt",2,Basketball,1
+2016,Indiana,"White, David",2,Football,1
+2016,Kentucky,"ALI, MUHAMMAD",5,Boxing/MMA,1
+2016,Louisiana,"Gasser, Ronald",3,Football,1
+2016,Louisiana,"McKnight, Joe",3,Football,1
+2016,Maryland,"Witz, Billy",10,Baseball,1
+2016,Massachusetts,"Brady, Tom",23,Football,1
+2016,Michigan,"Fulmer, Michael",5,Baseball,1
+2016,Michigan,"Kepner, Tyler",5,Baseball,1
+2016,Michigan,"Witz, Billy",5,Baseball,1
+2016,Minnesota,"Borzi, Pat",13,Baseball,1
+2016,Missouri,"Kepner, Tyler",11,Baseball,1
+2016,Nevada,"Davis, Mark (1954/55- )",3,Football,1
+2016,New Jersey,"Trump, Donald J",2,Golf,1
+2016,New York,"Witz, Billy",152,Baseball,1
+2016,North Carolina,"Newton, Cameron J",20,Football,1
+2016,Ohio,"James, LeBron",49,Basketball,1
+2016,Oklahoma,"Durant, Kevin",13,Basketball,1
+2016,Oregon,"Curry, Stephen",7,Basketball,1
+2016,Pennsylvania,"Kepner, Tyler",10,Baseball,1
+2016,Pennsylvania,"Wagner, James",10,Baseball,1
+2016,Tennessee,"Barnes, Matt",2,Basketball,1
+2016,Tennessee,"Fisher, Derek",2,Basketball,1
+2016,Texas,"Kepner, Tyler",14,Baseball,1
+2016,Washington,"Kepner, Tyler",6,Baseball,1
+2016,Washington,"Wilson, Russell",6,Football,1
+2016,Wisconsin,"Borzi, Pat",6,Baseball,1
+2017,California,"Durant, Kevin",19,Basketball,1
+2017,Colorado,"Arenado, Nolan",2,Baseball,1
+2017,Colorado,"LeMahieu, David John (DJ)",2,Baseball,1
+2017,District of Columbia,"Cespedes, Yoenis",5,Baseball,1
+2017,Florida,"Stanton, Giancarlo",11,Baseball,1
+2017,Georgia,"Brady, Tom",11,Football,1
+2017,Illinois,"Chapman, Aroldis",6,Baseball,1
+2017,Illinois,"Maddon, Joe",6,Baseball,1
+2017,Indiana,"ANTHONY, CARMELO",2,Basketball,1
+2017,Indiana,"George, Paul",2,Basketball,1
+2017,Maryland,"Judge, Aaron",4,Baseball,1
+2017,Massachusetts,"Brady, Tom",26,Football,1
+2017,Michigan,"Stafford, Matthew",3,Football,1
+2017,Minnesota,"Garcia, Jaime",2,Baseball,1
+2017,Minnesota,"Girardi, Joe",2,Baseball,1
+2017,Minnesota,"Pineda, Michael",2,Baseball,1
+2017,Minnesota,"Santana, Ervin",2,Baseball,1
+2017,Missouri,"Moustakas, Mike",3,Baseball,1
+2017,Nevada,"McGregor, Conor",3,Boxing/MMA,1
+2017,New Jersey,"Trump, Donald J",3,Golf,1
+2017,New York,"ANTHONY, CARMELO",56,Basketball,1
+2017,North Carolina,"Newton, Cameron J",4,Football,1
+2017,Ohio,"James, LeBron",26,Basketball,1
+2017,Oklahoma,"Westbrook, Russell",12,Basketball,1
+2017,Pennsylvania,"Rodgers, Aaron",4,Football,1
+2017,Pennsylvania,"Roethlisberger, Ben",4,Football,1
+2017,Pennsylvania,"Ryan, Matt",4,Football,1
+2017,Pennsylvania,"Wentz, Carson",4,Football,1
+2017,Tennessee,"Rinne, Pekka",2,Hockey,1
+2017,Texas,"Elliott, Ezekiel",12,Football,1
+2017,Texas,"Jones, Jerry",12,Football,1
+2017,Virginia,"Trump, Donald J",2,Golf,1
+2017,Washington,"Sherman, Richard",3,Football,1
+2017,Wisconsin,"Rodgers, Aaron",10,Football,1
+2018,Arizona,"Taurasi, Diana",3,Basketball,1
+2018,California,"James, LeBron",38,Basketball,1
+2018,Colorado,"Arenado, Nolan",2,Baseball,1
+2018,Colorado,"Story, Trevor",2,Baseball,1
+2018,District of Columbia,"Callaway, Mickey",4,Baseball,1
+2018,District of Columbia,"Delle Donne, Elena",4,Basketball,1
+2018,District of Columbia,"Harper, Bryce",4,Baseball,1
+2018,Florida,"Stanton, Giancarlo",9,Baseball,1
+2018,Georgia,"deGrom, Jacob",5,Baseball,1
+2018,Illinois,"Murphy, Daniel",3,Baseball,1
+2018,Indiana,"James, LeBron",3,Basketball,1
+2018,Louisiana,"Brees, Drew",8,Football,1
+2018,Maryland,"Jackson, Lamar",5,Football,1
+2018,Massachusetts,"Brady, Tom",19,Football,1
+2018,Michigan,"Nassar, Lawrence G",5,Track & Field,1
+2018,Minnesota,"Butler, Jimmy",3,Basketball,1
+2018,Minnesota,"Foles, Nick",3,Football,1
+2018,Minnesota,"Keenum, Case",3,Football,1
+2018,Missouri,"Mahomes, Patrick",4,Football,1
+2018,Nevada,"Ovechkin, Alex",2,Hockey,1
+2018,New York,"Boone, Aaron",42,Baseball,1
+2018,North Carolina,"Richardson, Jerry",7,Football,1
+2018,Ohio,"James, LeBron",40,Basketball,1
+2018,Oklahoma,"ANTHONY, CARMELO",4,Basketball,1
+2018,Pennsylvania,"Foles, Nick",13,Football,1
+2018,Texas,"Harden, James",10,Basketball,1
+2018,Utah,"Harden, James",2,Basketball,1
+2018,Washington,"Cano, Robinson",6,Baseball,1
+2018,Wisconsin,"Counsell, Craig",6,Baseball,1
+2019,Arizona,"Ayton, Deandre",2,Basketball,1
+2019,Arizona,"Taurasi, Diana",2,Basketball,1
+2019,Arizona,"Williams, Monty",2,Basketball,1
+2019,Arizona,"Williamson, Zion",2,Basketball,1
+2019,California,"James, LeBron",41,Basketball,1
+2019,Colorado,"Harden, James",4,Basketball,1
+2019,Connecticut,"Delle Donne, Elena",7,Basketball,1
+2019,District of Columbia,"Scherzer, Max",10,Baseball,1
+2019,District of Columbia,"Strasburg, Stephen",10,Baseball,1
+2019,Florida,"Jackson, Lamar",8,Football,1
+2019,Georgia,"Acuna, Ronald Jr",3,Baseball,1
+2019,Illinois,"Maddon, Joe",5,Baseball,1
+2019,Indiana,"Luck, Andrew",4,Football,1
+2019,Louisiana,"Brees, Drew",11,Football,1
+2019,Louisiana,"Mahomes, Patrick",11,Football,1
+2019,Maryland,"Jackson, Lamar",21,Football,1
+2019,Massachusetts,"Brady, Tom",24,Football,1
+2019,Michigan,"Jones, Daniel",3,Football,1
+2019,Minnesota,"Cousins, Kirk",4,Football,1
+2019,Missouri,"Mahomes, Patrick",22,Football,1
+2019,Nevada,"Cambage, Liz",3,Basketball,1
+2019,New York,"Boone, Aaron",32,Baseball,1
+2019,North Carolina,"McCaffrey, Christian",3,Football,1
+2019,Ohio,"Jackson, Lamar",10,Football,1
+2019,Ohio,"Mahomes, Patrick",10,Football,1
+2019,Ohio,"Mayfield, Baker",10,Football,1
+2019,Oklahoma,"Westbrook, Russell",6,Basketball,1
+2019,Oregon,"Curry, Stephen",6,Basketball,1
+2019,Oregon,"Lillard, Damian",6,Basketball,1
+2019,Pennsylvania,"Rudolph, Mason",8,Football,1
+2019,Tennessee,"Jackson, Lamar",3,Football,1
+2019,Texas,"Harden, James",19,Basketball,1
+2019,Washington,"Suzuki, Ichiro",4,Baseball,1
+2019,Wisconsin,"Antetokounmpo, Giannis",20,Basketball,1
+2020,Arizona,"Taurasi, Diana",3,Basketball,1
+2020,California,"James, LeBron",47,Basketball,1
+2020,Colorado,"James, LeBron",6,Basketball,1
+2020,Connecticut,"Miller, Curt",2,Basketball,1
+2020,Connecticut,"Thomas, Alyssa",2,Basketball,1
+2020,District of Columbia,"Snyder, Daniel M",22,Football,1
+2020,Florida,"Brady, Tom",23,Football,1
+2020,Georgia,"Allen, Ricardo",3,Football,1
+2020,Georgia,"Freeman, Freddie",3,Baseball,1
+2020,Georgia,"Jackson, Lamar",3,Football,1
+2020,Georgia,"Loeffler, Kelly L",3,Basketball,1
+2020,Georgia,"Mahomes, Patrick",3,Football,1
+2020,Georgia,"Ryan, Matt",3,Football,1
+2020,Illinois,"Jordan, Michael",10,Basketball,1
+2020,Indiana,"Brady, Tom",4,Football,1
+2020,Indiana,"Rivers, Philip",4,Football,1
+2020,Kansas,"Trump, Donald J",2,Football,1
+2020,Louisiana,"Brees, Drew",9,Football,1
+2020,Maryland,"Jackson, Lamar",19,Football,1
+2020,Massachusetts,"Brady, Tom",17,Football,1
+2020,Michigan,"Brady, Tom",2,Football,1
+2020,Michigan,"Burrow, Joe",2,Football,1
+2020,Michigan,"Kaline, Al",2,Baseball,1
+2020,Michigan,"Mayfield, Baker",2,Football,1
+2020,Minnesota,"Henry, Derrick",5,Football,1
+2020,Minnesota,"Moore, Maya",5,Basketball,1
+2020,Missouri,"Mahomes, Patrick",31,Football,1
+2020,Nevada,"Bird, Sue",5,Basketball,1
+2020,Nevada,"Carr, Derek",5,Football,1
+2020,Nevada,"Newton, Cameron J",5,Football,1
+2020,Nevada,"Wilson, A'ja",5,Basketball,1
+2020,New Jersey,"Murphy, Philip D",2,Golf,1
+2020,New Jersey,"Trump, Donald J",2,Golf,1
+2020,New York,"Boone, Aaron",19,Baseball,1
+2020,North Carolina,"Newton, Cameron J",5,Football,1
+2020,Ohio,"Burrow, Joe",10,Football,1
+2020,Oklahoma,"Davis, Anthony",2,Basketball,1
+2020,Oklahoma,"Harden, James",2,Basketball,1
+2020,Oklahoma,"James, LeBron",2,Basketball,1
+2020,Oklahoma,"Paul, Chris",2,Basketball,1
+2020,Oregon,"ANTHONY, CARMELO",2,Basketball,1
+2020,Oregon,"Davis, Anthony",2,Basketball,1
+2020,Oregon,"James, LeBron",2,Basketball,1
+2020,Oregon,"Lillard, Damian",2,Basketball,1
+2020,Pennsylvania,"Roethlisberger, Ben",7,Football,1
+2020,Tennessee,"Henry, Derrick",18,Football,1
+2020,Texas,"Luhnow, Jeff",12,Baseball,1
+2020,Utah,"Davis, Anthony",3,Basketball,1
+2020,Utah,"James, LeBron",3,Basketball,1
+2020,Washington,"Wilson, Russell",12,Football,1
+2020,Wisconsin,"Antetokounmpo, Giannis",13,Basketball,1
+2021,Arizona,"Booker, Devin",8,Basketball,1
+2021,California,"James, LeBron",24,Basketball,1
+2021,Colorado,"Allen, Josh",4,Football,1
+2021,Colorado,"Barkley, Saquon",4,Football,1
+2021,Colorado,"Bridgewater, Teddy",4,Football,1
+2021,Colorado,"Jokic, Nikola",4,Basketball,1
+2021,Colorado,"Jones, Mac",4,Football,1
+2021,Connecticut,"Jones, Jonquel",2,Basketball,1
+2021,District of Columbia,"Westbrook, Russell",6,Basketball,1
+2021,Florida,"Brady, Tom",37,Football,1
+2021,Georgia,"Aaron, Hank",12,Baseball,1
+2021,Illinois,"Parker, Candace",6,Basketball,1
+2021,Illinois,"la Russa, Tony",6,Baseball,1
+2021,Indiana,"Allen, Josh",6,Football,1
+2021,Kentucky,"Baffert, Bob",2,Horse Racing,1
+2021,Louisiana,"Jones, Daniel",6,Football,1
+2021,Maryland,"Jackson, Lamar",15,Football,1
+2021,Massachusetts,"Belichick, Bill",15,Football,1
+2021,Michigan,"Brady, Tom",3,Football,1
+2021,Michigan,"Darnold, Sam",3,Football,1
+2021,Michigan,"Elliott, Ezekiel",3,Football,1
+2021,Michigan,"Herbert, Justin",3,Football,1
+2021,Michigan,"Jones, Daniel",3,Football,1
+2021,Michigan,"Saleh, Robert",3,Football,1
+2021,Minnesota,"Cousins, Kirk",3,Football,1
+2021,Minnesota,"Jones, Daniel",3,Football,1
+2021,Minnesota,"Rodgers, Aaron",3,Football,1
+2021,Mississippi,"DiBiase, Brett",2,Football,1
+2021,Mississippi,"Favre, Brett",2,Football,1
+2021,Missouri,"Mahomes, Patrick",24,Football,1
+2021,Nevada,"Gruden, Jon",11,Football,1
+2021,New York,"Durant, Kevin",31,Basketball,1
+2021,North Carolina,"Ball, LaMelo",7,Basketball,1
+2021,Ohio,"Mayfield, Baker",14,Football,1
+2021,Oregon,"Olshey, Neil",3,Basketball,1
+2021,Pennsylvania,"Hurts, Jalen",6,Football,1
+2021,South Carolina,"Adams, Phillip M",2,Football,1
+2021,South Carolina,"Lesslie, Robert D",2,Football,1
+2021,Tennessee,"Henry, Derrick",8,Football,1
+2021,Texas,"Correa, Carlos",13,Baseball,1
+2021,Utah,"ANTHONY, CARMELO",3,Basketball,1
+2021,Utah,"Gobert, Rudy",3,Basketball,1
+2021,Washington,"Allen, Josh",4,Football,1
+2021,Washington,"Brady, Tom",4,Football,1
+2021,Washington,"Carroll, Pete",4,Football,1
+2021,Wisconsin,"Rodgers, Aaron",30,Football,1
+2022,Arizona,"Griner, Brittney",26,Basketball,1
+2022,California,"Curry, Stephen",34,Basketball,1
+2022,Colorado,"Wilson, Russell",8,Football,1
+2022,Connecticut,"Jones, Jonquel",5,Basketball,1
+2022,Connecticut,"Wilson, A'ja",5,Basketball,1
+2022,District of Columbia,"Snyder, Daniel M",15,Football,1
+2022,Florida,"Brady, Tom",29,Football,1
+2022,Georgia,"Swanson, Dansby",6,Baseball,1
+2022,Illinois,"Parker, Candace",6,Basketball,1
+2022,Indiana,"Brady, Tom",4,Football,1
+2022,Kentucky,"Baffert, Bob",2,Horse Racing,1
+2022,Kentucky,"Prat, Flavien",2,Horse Racing,1
+2022,Louisiana,"Brown, A J",2,Football,1
+2022,Louisiana,"Walker, Travon",2,Football,1
+2022,Louisiana,"Willis, Malik",2,Football,1
+2022,Maryland,"Jackson, Lamar",7,Football,1
+2022,Massachusetts,"Tatum, Jayson",24,Basketball,1
+2022,Michigan,"Tagovailoa, Tua",4,Football,1
+2022,Minnesota,"Bird, Sue",4,Basketball,1
+2022,Minnesota,"Cousins, Kirk",4,Football,1
+2022,Minnesota,"Fowles, Sylvia",4,Basketball,1
+2022,Mississippi,"Bryant, Phil",2,Football,1
+2022,Mississippi,"Favre, Brett",2,Football,1
+2022,Missouri,"Burrow, Joe",8,Football,1
+2022,Missouri,"Mahomes, Patrick",8,Football,1
+2022,Nevada,"Wilson, A'ja",8,Basketball,1
+2022,New York,"Judge, Aaron",62,Baseball,1
+2022,North Carolina,"Allen, Josh",3,Football,1
+2022,North Carolina,"Jackson, Lamar",3,Football,1
+2022,North Carolina,"Mayfield, Baker",3,Football,1
+2022,Ohio,"Watson, Deshaun",25,Football,1
+2022,Oklahoma,"McIlroy, Rory",2,Golf,1
+2022,Oklahoma,"Spieth, Jordan",2,Golf,1
+2022,Oklahoma,"Woods, Tiger",2,Golf,1
+2022,Oregon,"Knight, Philip H",2,Track & Field,1
+2022,Oregon,"Mickelson, Phil",2,Golf,1
+2022,Pennsylvania,"Harper, Bryce",18,Baseball,1
+2022,Tennessee,"Morant, Ja",9,Basketball,1
+2022,Texas,"Watson, Deshaun",16,Football,1
+2022,Washington,"Rodriguez, Julio",8,Baseball,1
+2022,Wisconsin,"Rodgers, Aaron",9,Football,1
+2023,Alabama,"Mays, Willie",2,Baseball,1
+2023,Arizona,"Durant, Kevin",4,Basketball,1
+2023,Arizona,"Paul, Chris",4,Basketball,1
+2023,California,"James, LeBron",22,Basketball,1
+2023,Colorado,"Jokic, Nikola",14,Basketball,1
+2023,District of Columbia,"Snyder, Daniel M",8,Football,1
+2023,Florida,"Butler, Jimmy",12,Basketball,1
+2023,Georgia,"Olson, Matt",2,Baseball,1
+2023,Illinois,"Brown, Sergio",2,Football,1
+2023,Illinois,"Jordan, Michael",2,Basketball,1
+2023,Indiana,"Boston, Aliyah",2,Basketball,1
+2023,Maryland,"Rutschman, Adley",3,Baseball,1
+2023,Massachusetts,"Tatum, Jayson",8,Basketball,1
+2023,Michigan,"Wembanyama, Victor",3,Basketball,1
+2023,Minnesota,"Correa, Carlos",2,Baseball,1
+2023,Minnesota,"Kapp, Joe",2,Football,1
+2023,Minnesota,"Lawrence, Trevor",2,Football,1
+2023,Mississippi,"Bowie, Tori",2,Track & Field,1
+2023,Missouri,"Mahomes, Patrick",25,Football,1
+2023,Nevada,"Stewart, Breanna",3,Basketball,1
+2023,Nevada,"Wilson, A'ja",3,Basketball,1
+2023,New York,"Hamlin, Damar",37,Football,1
+2023,North Carolina,"Bridges, Miles",2,Basketball,1
+2023,North Carolina,"Jordan, Michael",2,Basketball,1
+2023,North Carolina,"Stroud, C J",2,Football,1
+2023,North Carolina,"Young, Bryce",2,Football,1
+2023,Ohio,"Hamlin, Damar",14,Football,1
+2023,Oklahoma,"Babudar, Xaviar",2,Football,1
+2023,Oregon,"Lillard, Damian",2,Basketball,1
+2023,Pennsylvania,"Hurts, Jalen",17,Football,1
+2023,Pennsylvania,"Mahomes, Patrick",17,Football,1
+2023,Tennessee,"Morant, Ja",10,Basketball,1
+2023,Texas,"Wembanyama, Victor",9,Basketball,1
+2023,Washington,"Brady, Tom",2,Football,1
+2023,Washington,"Kemp, Shawn",2,Basketball,1
+2023,Wisconsin,"Rodgers, Aaron",5,Football,1
+2024,Alabama,"Mays, Willie",4,Baseball,1
+2024,California,"Ohtani, Shohei",12,Baseball,1
+2024,Connecticut,"McMahon, Vince",2,Boxing/MMA,1
+2024,Florida,"Hill, Tyreek",2,Football,1
+2024,Florida,"Trump, Donald J",2,Golf,1
+2024,Indiana,"Clark, Caitlin",4,Basketball,1
+2024,Kansas,"Robinson, Jackie",4,Baseball,1
+2024,Massachusetts,"Belichick, Bill",5,Football,1
+2024,Minnesota,"Walz, Tim",4,Football,1
+2024,Missouri,"Swift, Taylor",16,Football,1
+2024,Nevada,"Swift, Taylor",5,Football,1
+2024,New Jersey,"DeVito, Tommy",2,Football,1
+2024,New York,"Trump, Donald J",6,Baseball,1
+2024,Pennsylvania,"Parker, Cherelle",2,Basketball,1
+2024,Pennsylvania,"Trump, Donald J",2,Football,1
+2024,Texas,"Tyson, Mike",3,Boxing/MMA,1
+2025,California,"Trump, Donald J",8,Baseball,1
+2025,District of Columbia,"Naumov, Vadim",4,Other,1
+2025,District of Columbia,"Trump, Donald J",4,Football,1
+2025,Florida,"Rozier, Terry",2,Basketball,1
+2025,Florida,"Trump, Donald J",2,Golf,1
+2025,Georgia,"Rose, Justin",2,Golf,1
+2025,Illinois,Leo XIV,3,Baseball,1
+2025,Indiana,"Clark, Caitlin",3,Basketball,1
+2025,Louisiana,"Trump, Donald J",3,Football,1
+2025,Massachusetts,"Kerrigan, Nancy",3,Olympics,1
+2025,Missouri,"Swift, Taylor",6,Football,1
+2025,Nevada,"Wilson, A'ja",2,Basketball,1
+2025,New Jersey,"Murphy, Philip D",2,Track & Field,1
+2025,New York,"Trump, Donald J",5,Baseball,1
+2025,North Carolina,"Rozier, Terry",3,Basketball,1
+2025,Ohio,"Burrow, Joe",2,Football,1
+2025,Ohio,"Clase, Emmanuel",2,Baseball,1
+2025,Ohio,"Trump, Donald J",2,Football,1
+2025,Oklahoma,"Caruso, Alex",2,Basketball,1
+2025,Oklahoma,"Gilgeous-Alexander, Shai",2,Basketball,1
+2025,Oklahoma,"James, LeBron",2,Basketball,1
+2025,Oklahoma,"Johnson, LeShon",2,Football,1
+2025,Oregon,"Rozier, Terry",2,Basketball,1
+2025,Pennsylvania,"Barkley, Saquon",2,Football,1
+2025,Pennsylvania,"Hurts, Jalen",2,Football,1
+2025,Pennsylvania,"Lamar, Kendrick",2,Football,1
+2025,Pennsylvania,"Swift, Taylor",2,Football,1
+2025,Texas,"Jones, Jerry",3,Football,1
+2026,California,"Liu, Alysa",2,Other,1
+2026,District of Columbia,"Trump, Donald J",2,Golf,1
+2026,Florida,"Trump, Donald J",2,Golf,1
+2026,Illinois,"Jordan, Michael",2,Basketball,1
+2026,Illinois,"Pippen, Scottie",2,Basketball,1
+2026,Massachusetts,"Darnold, Sam",2,Football,1
+2026,Massachusetts,"Russini, Dianna",2,Football,1
+2026,Massachusetts,"Vrabel, Mike",2,Football,1
+2026,New Jersey,"Sherrill, Mikie",2,Soccer,1
+2026,New York,"Mamdani, Zohran",3,Soccer,1
+2026,Pennsylvania,"Frazier, Joe",2,Boxing/MMA,1
+2026,Pennsylvania,"Schomberg, A Thomas",2,Boxing/MMA,1
+2026,Washington,"Darnold, Sam",2,Football,1

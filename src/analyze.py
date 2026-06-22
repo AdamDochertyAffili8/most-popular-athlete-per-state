@@ -19,6 +19,7 @@ from pathlib import Path
 import pandas as pd
 
 from src.states import (
+    SPORT_CATEGORIES,
     SPORTS_SUBJECTS,
     clean_person_name,
     glocation_to_state,
@@ -27,7 +28,7 @@ from src.states import (
 
 PROCESSED_DIR = Path("data/processed")
 RESULTS_DIR = Path("results")
-DEFAULT_MIN_ARTICLES = 3
+DEFAULT_MIN_ARTICLES = 2
 
 
 def load_processed(years: list[int] | None) -> pd.DataFrame:
@@ -92,7 +93,36 @@ def build_state_pairs(df_sports: pd.DataFrame) -> pd.DataFrame:
     return combined.drop_duplicates(subset=["article_id", "state"]).reset_index(drop=True)
 
 
-def build_rankings(df_persons: pd.DataFrame, df_states: pd.DataFrame, min_articles: int) -> pd.DataFrame:
+def dominant_sport(df_sports: pd.DataFrame, merged: pd.DataFrame) -> pd.DataFrame:
+    """Return the most-mentioned sport category per (year, state, athlete)."""
+    subj = (
+        df_sports[["article_id", "subjects"]]
+        .explode("subjects")
+        .dropna(subset=["subjects"])
+        .rename(columns={"subjects": "subject"})
+    )
+    subj["sport"] = subj["subject"].map(SPORT_CATEGORIES)
+    subj = subj.dropna(subset=["sport"])
+
+    sport_counts = (
+        merged.merge(subj[["article_id", "sport"]], on="article_id", how="inner")
+        .groupby(["year", "state", "person", "sport"])["article_id"]
+        .nunique()
+        .reset_index()
+        .rename(columns={"person": "athlete", "article_id": "n"})
+        .sort_values("n", ascending=False)
+        .drop_duplicates(subset=["year", "state", "athlete"], keep="first")
+        [["year", "state", "athlete", "sport"]]
+    )
+    return sport_counts
+
+
+def build_rankings(
+    df_persons: pd.DataFrame,
+    df_states: pd.DataFrame,
+    df_sports: pd.DataFrame,
+    min_articles: int,
+) -> pd.DataFrame:
     merged = df_persons.merge(df_states, on="article_id")
 
     counts = (
@@ -103,8 +133,12 @@ def build_rankings(df_persons: pd.DataFrame, df_states: pd.DataFrame, min_articl
         .rename(columns={"person": "athlete", "article_id": "article_count"})
     )
 
-    # Apply minimum article threshold to remove noise
     counts = counts[counts["article_count"] >= min_articles].copy()
+
+    # Attach dominant sport
+    sport_df = dominant_sport(df_sports, merged)
+    counts = counts.merge(sport_df, on=["year", "state", "athlete"], how="left")
+    counts["sport"] = counts["sport"].fillna("Other")
 
     counts["rank"] = (
         counts
@@ -144,7 +178,7 @@ def main(years: list[int] | None = None, min_articles: int = DEFAULT_MIN_ARTICLE
     print(f"  min article threshold: {min_articles}")
 
     print("\nBuilding rankings...", flush=True)
-    rankings = build_rankings(df_persons, df_states, min_articles)
+    rankings = build_rankings(df_persons, df_states, df_sports, min_articles)
 
     rankings.to_parquet(RESULTS_DIR / "rankings.parquet", index=False)
     rankings.to_csv(RESULTS_DIR / "rankings.csv", index=False)

@@ -33,17 +33,20 @@ SCHEMA = pa.schema([
 
 
 def split_keywords(keywords) -> tuple[list[str], list[str], list[str], list[str]]:
+    # NYT changed tag names in ~2025: lowercase plural → Title Case singular
+    # Old: "persons", "glocations", "subject", "organizations"
+    # New: "Person",  "Location",   "Subject", "Organization"
     persons, glocations, subjects, organizations = [], [], [], []
     for kw in keywords:
-        name = kw["name"]
+        name = kw["name"].lower()
         value = kw["value"]
-        if name == "persons":
+        if name in ("persons", "person"):
             persons.append(value)
-        elif name == "glocations":
+        elif name in ("glocations", "location"):
             glocations.append(value)
         elif name == "subject":
             subjects.append(value)
-        elif name == "organizations":
+        elif name in ("organizations", "organization"):
             organizations.append(value)
     return persons, glocations, subjects, organizations
 
