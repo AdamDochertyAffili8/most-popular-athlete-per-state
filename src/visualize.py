@@ -32,20 +32,20 @@ STATE_ABBR: dict[str, str] = {
 }
 
 SPORT_COLORS: dict[str, str] = {
-    "Football":      "#2c4a7c",
-    "Basketball":    "#c8622a",
-    "Baseball":      "#a83232",
-    "Hockey":        "#2a6496",
-    "Soccer":        "#2e7d6b",
-    "Tennis":        "#4a7c3f",
-    "Golf":          "#6b4a8a",
-    "Boxing/MMA":    "#9c4a1a",
-    "Olympics":      "#b8972a",
-    "Auto Racing":   "#5a6068",
-    "Horse Racing":  "#7a5c3a",
-    "Track & Field": "#2a7a82",
-    "Other":         "#8a9298",
-    "No data":       "#e8e8e8",
+    "Football":      "#3a7bd5",   # royal blue
+    "Basketball":    "#f07d18",   # vivid orange
+    "Baseball":      "#d42b2b",   # red
+    "Hockey":        "#18b8d4",   # ice cyan
+    "Soccer":        "#22a84e",   # green
+    "Tennis":        "#c8d41a",   # lime-yellow (tennis ball)
+    "Golf":          "#8a3dd4",   # purple
+    "Boxing/MMA":    "#d41a8a",   # hot magenta
+    "Olympics":      "#d49a1a",   # amber-gold
+    "Auto Racing":   "#8a9db8",   # steel grey
+    "Horse Racing":  "#956030",   # saddle brown
+    "Track & Field": "#1ad4aa",   # mint-teal (distinct from ice-cyan hockey)
+    "Other":         "#5a6a80",   # slate
+    "No data":       "#252d3a",   # near-invisible dark (blends with bg)
 }
 
 SPORT_ORDER = list(SPORT_COLORS.keys())
