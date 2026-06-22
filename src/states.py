@@ -10,24 +10,101 @@ import re
 # People who regularly appear in sports articles but are not athletes.
 # NYT persons tags use "Last, First" format. Extend this set as new cases emerge.
 NON_ATHLETES: set[str] = {
-    # Politicians
+    # ── Sports journalists (tagged as persons in their own NYT articles) ──────
+    "Kepner, Tyler",        # NYT baseball writer — appears in 11 states
+    "Witz, Billy",          # NYT sports writer
+    "Waldstein, David",     # NYT baseball writer
+    "Borzi, Pat",           # NYT sports writer
+    "Wagner, James",        # NYT sports writer
+    "Strauss, Ben",         # sports journalist
+    "May, Peter",           # sports journalist
+    "Battista, Judy",       # NFL reporter
+    "Holtz, Jeff",          # journalist
+    "Clarey, Christopher",  # NYT sports reporter
+    # ── Politicians ──────────────────────────────────────────────────────────
     "Trump, Donald J", "Trump, Donald J.",
-    "Obama, Barack", "Biden, Joseph R Jr",
-    "Pence, Mike", "Pataki, George E",
-    # Team owners / executives
+    "Obama, Barack",
+    "Biden, Joseph R Jr",
+    "Bush, George W",
+    "Clinton, Bill",
+    "Pence, Mike",
+    "Pataki, George E",
+    "Bloomberg, Michael R",
+    "Adams, Eric L",        # NYC mayor
+    "Mamdani, Zohran",      # NYC mayoral candidate
+    "Walz, Tim",            # Minnesota governor
+    "Murphy, Philip D",     # New Jersey governor
+    "Christie, Christopher J",
+    "Blanco, Kathleen Babineaux",
+    "Ashcroft, John",
+    "Bruno, Joseph L",
+    "Sherrill, Mikie",
+    # ── Team owners / executives / GMs ───────────────────────────────────────
     "Prokhorov, Mikhail D",
     "Steinbrenner, George M 3d",
     "McMahon, Linda E", "McMahon, Vince",
     "Kroenke, Stan",
     "Cuban, Mark",
-    "Sterling, Donald T",
-    # Sports commissioners / officials
+    "Sterling, Donald",
+    "Snyder, Daniel M",
+    "Jones, Jerry",
+    "Glazer, Malcolm",
+    "Modell, Art",
+    "McCombs, Red",
+    "Richardson, Jerry",
+    "McCourt, Frank H Jr",
+    "Heisley, Michael",
+    "Levenson, Bruce",
+    "Knight, Philip H",
+    "Luhnow, Jeff",
+    "Olshey, Neil",
+    "Benson, Tom",
+    # ── Commissioners / league officials ─────────────────────────────────────
     "Stern, David", "Silver, Adam",
     "Goodell, Roger",
     "Manfred, Robert D Jr",
     "Bettman, Gary B",
-    # Coaches / managers (comment out any you want included)
-    # Journalists / media figures commonly tagged in sports articles
+    "Selig, Bud",
+    # ── Coaches & managers (not athletes themselves) ──────────────────────────
+    "Belichick, Bill",
+    "Popovich, Gregg",
+    "Carroll, Pete",
+    "Payton, Sean",
+    "Edwards, Herman",
+    "Reid, Andy",
+    "Gruden, Jon",
+    "Parcells, Bill",
+    "Brown, Larry",
+    "Ditka, Mike",
+    "Leyland, Jim",
+    "Torre, Joe",
+    "Piniella, Lou",
+    "Garner, Phil",
+    "Baker, Dusty",
+    "Counsell, Craig",
+    "Manuel, Jerry",
+    "Collins, Terry L",
+    "Maddon, Joe",
+    "Callaway, Mickey",
+    "Hornacek, Jeff",
+    "Dunlap, Mike",
+    "Dunleavy, Mike",
+    "Scott, Byron",
+    "Miller, Curt",
+    "Smith, Mike",
+    "Gibbs, Joe",
+    # ── Celebrities / non-sport public figures in sports contexts ─────────────
+    "Jackson, Janet",       # Super Bowl halftime
+    "Lee, Spike",           # Knicks courtside fan
+    "Swift, Taylor",        # Travis Kelce partner
+    "Leo XIV",              # New Pope; baseball fan context
+    "Prince Henry of Wales",
+    # ── Criminal / legal cases — subjects of crimes, not sport ───────────────
+    "Nifong, Michael B",    # Duke lacrosse prosecutor
+    "Nassar, Lawrence G",   # USA Gymnastics abuse
+    "Rudolph, Eric Robert", # Atlanta Olympics bomber
+    "Gasser, Ronald",       # Joe McKnight shooting
+    "Huguely, George",      # lacrosse murder case
     "Madoff, Bernard L",
 }
 

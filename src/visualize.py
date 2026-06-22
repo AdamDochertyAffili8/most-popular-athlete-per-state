@@ -182,6 +182,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
       not the absence of sport — smaller and rural states are underrepresented in a
       national newspaper. State attribution is based on NYT geographic keyword tags and
       a lookup of 200+ professional and college sports team names.
+      <strong>2026*</strong> covers January–May only (partial year).
     </p>
     <p class="source">
       Data: New York Times Archive API &nbsp;·&nbsp;
@@ -287,7 +288,7 @@ def build_figure(df: pd.DataFrame) -> go.Figure:
             steps=[
                 dict(
                     method="animate",
-                    label=str(y),
+                    label=f"{y}*" if y == 2026 else str(y),
                     args=[[str(y)], dict(mode="immediate",
                                         frame=dict(duration=600, redraw=True))],
                 )
